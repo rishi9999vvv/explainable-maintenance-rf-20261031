@@ -1,0 +1,4952 @@
+{
+  "source_kind": "real_accelerated_bearing_experiment",
+  "source_url": "https://biaowang.tech/xjtu-sy-bearing-datasets/",
+  "mirror_repo": "DavidNguyen/XJTU-SY_Bearing_Datasets",
+  "mirror_revision": "274226336036cd8deb2c40b4ba323af2d11a7290",
+  "archive_lfs_sha256": "3cc815649a315ac7da202980c489f33db44ca2db0317bbe3bcb9dcf415375e10",
+  "sample_rate_hz": 25600,
+  "samples_per_capture": 32768,
+  "capture_period_seconds": 60,
+  "speed_rpm": 2100,
+  "load_kn": 12,
+  "counts": {
+    "Bearing1_1": 123,
+    "Bearing1_2": 161,
+    "Bearing1_3": 158,
+    "Bearing1_4": 122,
+    "Bearing1_5": 52
+  },
+  "citation": "Wang et al., A Hybrid Prognostics Approach for Estimating Remaining Useful Life of Rolling Element Bearings, IEEE Transactions on Reliability 69(1), 2020, pp.401-412.",
+  "license_note": "Dataset author permits prognostics validation and requests citation. No broader redistribution license inferred; raw data excluded from distributable ZIP.",
+  "records": [
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 1,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/1.csv",
+      "path": "Bearing1_1/1.csv",
+      "sha256": "4ea9ab4171bccfc3ec7a1764b44f20f5116cdb3570334c853e076cb1ba6359fb",
+      "bytes": 1335824
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 2,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/2.csv",
+      "path": "Bearing1_1/2.csv",
+      "sha256": "f8f33a3a0189c2f83c7c16c6e3657fdc9bdd65ac2265245a6eb7c93044aa124c",
+      "bytes": 1335346
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 3,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/3.csv",
+      "path": "Bearing1_1/3.csv",
+      "sha256": "9d67959ffed37391a463abfb70e22be8536735346085b41e46bbe32d7c0072ee",
+      "bytes": 1335006
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 4,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/4.csv",
+      "path": "Bearing1_1/4.csv",
+      "sha256": "b291ea3127528b27d6b531686dd41d756b0012c8bfbbfd2cb2be54c2b83b4947",
+      "bytes": 1334458
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 5,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/5.csv",
+      "path": "Bearing1_1/5.csv",
+      "sha256": "942d175b48971fb250f60d299e0bc66327e3064757cb446f5276b41d48aad4b0",
+      "bytes": 1334900
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 6,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/6.csv",
+      "path": "Bearing1_1/6.csv",
+      "sha256": "5f66c89d4eb95708f0d2271f7713cd64f3eddf46bd897245a3649daf034bb38e",
+      "bytes": 1333769
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 7,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/7.csv",
+      "path": "Bearing1_1/7.csv",
+      "sha256": "30dd8da834ec013359316d24e94c5f9b04abef4aff8d7556ffd72c6d63bbd2eb",
+      "bytes": 1334436
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 8,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/8.csv",
+      "path": "Bearing1_1/8.csv",
+      "sha256": "bc113cc2384ba12fdbc0e98af28dfc9fdc2e44d1e2631e558a72f71be84db3f4",
+      "bytes": 1334291
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 9,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/9.csv",
+      "path": "Bearing1_1/9.csv",
+      "sha256": "f45bbc237dbae25504bff790476c6a2cf4f0551fd45601ab2e45bfd583417fac",
+      "bytes": 1334506
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 10,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/10.csv",
+      "path": "Bearing1_1/10.csv",
+      "sha256": "6ed338010aa43c74deb28f0ee2bce896d20b8af0b9d91061afaa5c22627b493c",
+      "bytes": 1333990
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 11,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/11.csv",
+      "path": "Bearing1_1/11.csv",
+      "sha256": "f3c283333c12b599fa2cfedb8820899e5464ac03a7d385357312e4f69923b3ae",
+      "bytes": 1332646
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 12,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/12.csv",
+      "path": "Bearing1_1/12.csv",
+      "sha256": "3cae01e1c555bd0d88671a2eab393164eff319d199a42be0cb9efa9b64a5fd6b",
+      "bytes": 1334224
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 13,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/13.csv",
+      "path": "Bearing1_1/13.csv",
+      "sha256": "6644393645db459d32ccdd55dd655b554ac1016360b98a7fb657362552bfb771",
+      "bytes": 1332827
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 14,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/14.csv",
+      "path": "Bearing1_1/14.csv",
+      "sha256": "17dcc3e139fe47fc4fad613aacdaed31d23e74b11e4b469fabdcfa353db5f201",
+      "bytes": 1331684
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 15,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/15.csv",
+      "path": "Bearing1_1/15.csv",
+      "sha256": "ef5fceb0c10a18298aae97e8e3bc8ec4a90b5c79c90ecd3ad6f3f6e3c726f2ce",
+      "bytes": 1331144
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 16,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/16.csv",
+      "path": "Bearing1_1/16.csv",
+      "sha256": "cec35f77a6f82404a0acc7fd9141a4b87f4d5d567a602f3b5657573c70405a1d",
+      "bytes": 1331865
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 17,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/17.csv",
+      "path": "Bearing1_1/17.csv",
+      "sha256": "c80e8ebebb41349234e290497a89d6641fdfd9e261a95518ab29a782f385b928",
+      "bytes": 1334271
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 18,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/18.csv",
+      "path": "Bearing1_1/18.csv",
+      "sha256": "1677a8b8387cd35293264f0ad61a0af96db8d7055229d6ca6d98f9e663d3d828",
+      "bytes": 1332167
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 19,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/19.csv",
+      "path": "Bearing1_1/19.csv",
+      "sha256": "01c5fa02cde187fe42b16d918f992d7496526d8678e27527bf4a04d27a4c2fa8",
+      "bytes": 1332550
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 20,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/20.csv",
+      "path": "Bearing1_1/20.csv",
+      "sha256": "5d8df544e00392bb8151f3a685bab136674a80a2ed7a314cbe18c5390923d587",
+      "bytes": 1332032
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 21,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/21.csv",
+      "path": "Bearing1_1/21.csv",
+      "sha256": "59699e044e9dfc436404999ab3a841317859b70f6272a7ce1b0b3f9d3e120d0d",
+      "bytes": 1332036
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 22,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/22.csv",
+      "path": "Bearing1_1/22.csv",
+      "sha256": "1a193c3c9f168adb60f7cf4eeac9f88daa7e80803481f06629799f4ef9a80af2",
+      "bytes": 1330351
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 23,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/23.csv",
+      "path": "Bearing1_1/23.csv",
+      "sha256": "1c7cf7da46aff4a30e3e44b9707d03d97498b741d34342186d17c72c300e2a5b",
+      "bytes": 1333110
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 24,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/24.csv",
+      "path": "Bearing1_1/24.csv",
+      "sha256": "86026ed955c4e6406b30b56ed904c5f807a4a6736ea3ccc6c7f0e4deb57e6d6d",
+      "bytes": 1332480
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 25,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/25.csv",
+      "path": "Bearing1_1/25.csv",
+      "sha256": "41c71e2c7f6d989f4ac237373ce74333515e263ff986f77a104b2e528daf1696",
+      "bytes": 1331925
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 26,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/26.csv",
+      "path": "Bearing1_1/26.csv",
+      "sha256": "2516181ba231b1763276854f22175caa14c77c0e296bbf2dda20fa0ffe4ec955",
+      "bytes": 1330972
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 27,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/27.csv",
+      "path": "Bearing1_1/27.csv",
+      "sha256": "7ab54c518f83963aa1ad5983809cac49d65b692b0a1d6f05ac5d6de795f2fbba",
+      "bytes": 1330299
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 28,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/28.csv",
+      "path": "Bearing1_1/28.csv",
+      "sha256": "dc9c06daa877e64b3bd9dddf5f84851ce2a59d467904fc82d0c5ba51df9b2447",
+      "bytes": 1329720
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 29,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/29.csv",
+      "path": "Bearing1_1/29.csv",
+      "sha256": "1c11c3056d6d1c941fad08b8437d0f12437715518e80604a33c1f4b908965e51",
+      "bytes": 1330254
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 30,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/30.csv",
+      "path": "Bearing1_1/30.csv",
+      "sha256": "a46637a4163fed5a326f26e87e57d68542a5fa00ee0cee542193327f380d299d",
+      "bytes": 1330124
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 31,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/31.csv",
+      "path": "Bearing1_1/31.csv",
+      "sha256": "e0de608dd69c7f8a613b4ca86b56d5bafafaf3016af2f9ab594b50038f1a9eb6",
+      "bytes": 1330960
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 32,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/32.csv",
+      "path": "Bearing1_1/32.csv",
+      "sha256": "2038739e6d7aa12b8109891607cdfdbe5605d87b3bd17d84136050e3d4e4fe89",
+      "bytes": 1330985
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 33,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/33.csv",
+      "path": "Bearing1_1/33.csv",
+      "sha256": "2549faac5e929f6b6f75bab1a230d0005059a1bf64587ec27d41ba969d4576c1",
+      "bytes": 1330844
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 34,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/34.csv",
+      "path": "Bearing1_1/34.csv",
+      "sha256": "46c2ef69e40e64a51b8538a2179bdd6f9e76c89809e3219c7c52ab23e970b6f3",
+      "bytes": 1330198
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 35,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/35.csv",
+      "path": "Bearing1_1/35.csv",
+      "sha256": "53f0222a68b3fa01e2895d7af6a45831a948a3f5fb42375c0fb481938396e4d6",
+      "bytes": 1330892
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 36,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/36.csv",
+      "path": "Bearing1_1/36.csv",
+      "sha256": "66b84565434ea0c994e2fe6af8ca5d96a125b6f72d764d0dd29b44fb768a4fd8",
+      "bytes": 1329624
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 37,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/37.csv",
+      "path": "Bearing1_1/37.csv",
+      "sha256": "f710bd5d43a158d235383d7a83a7abf2fb71fa2356028e095f7f56af2ac9f7aa",
+      "bytes": 1329962
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 38,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/38.csv",
+      "path": "Bearing1_1/38.csv",
+      "sha256": "94ab8af3674ce0e82ede67711b4df4219af8c371f29429f8b99786edc83b9009",
+      "bytes": 1330831
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 39,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/39.csv",
+      "path": "Bearing1_1/39.csv",
+      "sha256": "faed01f00f299bd25e3c7bb149128652fa9cf2d06d394db8e45318e98471cc80",
+      "bytes": 1331653
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 40,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/40.csv",
+      "path": "Bearing1_1/40.csv",
+      "sha256": "593d3487e221325c530312ba8a44218d1bbe5205677f2eb937cca1ef99cd2d4e",
+      "bytes": 1330738
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 41,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/41.csv",
+      "path": "Bearing1_1/41.csv",
+      "sha256": "8f431f53aa3068e7e2be2b85204ab81d79555f41d65adbf9753313e9b1314410",
+      "bytes": 1329368
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 42,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/42.csv",
+      "path": "Bearing1_1/42.csv",
+      "sha256": "13b2993f8eeccb99ecab9d1bbe4fcd8c0f878e8fbc73e52584b8d43768803fd0",
+      "bytes": 1331608
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 43,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/43.csv",
+      "path": "Bearing1_1/43.csv",
+      "sha256": "90f8068087cf96501b0467253df0d1783519218eae6d1aa8ab885dbee153ba05",
+      "bytes": 1330337
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 44,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/44.csv",
+      "path": "Bearing1_1/44.csv",
+      "sha256": "c5b171be1fce3680991b15bb0f37f837b2ebf89c1d3ce61e49051308d4b14f71",
+      "bytes": 1331771
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 45,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/45.csv",
+      "path": "Bearing1_1/45.csv",
+      "sha256": "722f7fc72777dc2e4d0fdf6abf202d639e6a399baa7b66d65773903f9eb9a5e1",
+      "bytes": 1329988
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 46,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/46.csv",
+      "path": "Bearing1_1/46.csv",
+      "sha256": "837134a3617a8dc94db3d6121515464bbed144ca5af039535a2d252cc3074eaa",
+      "bytes": 1330325
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 47,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/47.csv",
+      "path": "Bearing1_1/47.csv",
+      "sha256": "d5181ab9868d9ac90969184fe1ef3a5d45b3f2e77205a9046effc6412108baf8",
+      "bytes": 1328876
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 48,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/48.csv",
+      "path": "Bearing1_1/48.csv",
+      "sha256": "4a73d5e83b688e1538b99bd04c1e2f41e628225ed611d81f2e22922ac29621a4",
+      "bytes": 1330339
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 49,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/49.csv",
+      "path": "Bearing1_1/49.csv",
+      "sha256": "f7f0674116cdf3ef79463587b06c1ffad9e2e89b3573fc9c00e98a589aa2e95c",
+      "bytes": 1330427
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 50,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/50.csv",
+      "path": "Bearing1_1/50.csv",
+      "sha256": "a72deb03d47a6decb765ae6a800f530298ad49c4f8facd348a2eb0aa38e10f55",
+      "bytes": 1331962
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 51,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/51.csv",
+      "path": "Bearing1_1/51.csv",
+      "sha256": "9155b664861a9d4a753c586f40d87b45f9acf4093aa491dda5110fc28a9d5ab8",
+      "bytes": 1330672
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 52,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/52.csv",
+      "path": "Bearing1_1/52.csv",
+      "sha256": "0045190a5d15c632042731860aaf133409ea6db3cc8885cc39dfcaf82885c173",
+      "bytes": 1331375
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 53,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/53.csv",
+      "path": "Bearing1_1/53.csv",
+      "sha256": "79f59d2b6f80dc83c928d96a9cc19e9a57722bc8e1143fbac67b78e6a181980a",
+      "bytes": 1330180
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 54,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/54.csv",
+      "path": "Bearing1_1/54.csv",
+      "sha256": "c868a610ade0439b73152be6c6b9e1d8f3a923715912a2c0385a3f0a6e1a8819",
+      "bytes": 1331826
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 55,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/55.csv",
+      "path": "Bearing1_1/55.csv",
+      "sha256": "cf62fc212262387f9d19255f2dabcb9b2ff462f63feefcef2479324cde7a3537",
+      "bytes": 1331002
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 56,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/56.csv",
+      "path": "Bearing1_1/56.csv",
+      "sha256": "c1c16f18a1505a586dbd1b4df8db70dcb640448b0ad5e848e33a0683598a1fd6",
+      "bytes": 1330771
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 57,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/57.csv",
+      "path": "Bearing1_1/57.csv",
+      "sha256": "0b16bbe8ced61cfc8b47a91cc0960709ddb6a5aaa0c36f4caab6401b8f540965",
+      "bytes": 1328658
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 58,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/58.csv",
+      "path": "Bearing1_1/58.csv",
+      "sha256": "af77e02730ea0c12d944c1bc19be1f0030bda921582bdbfc01cbdf21bbd9764f",
+      "bytes": 1331025
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 59,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/59.csv",
+      "path": "Bearing1_1/59.csv",
+      "sha256": "f2877a691f6407f575e8fbfe60381d0cb396adbac16610b70a4a56a7b98f3bc2",
+      "bytes": 1329981
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 60,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/60.csv",
+      "path": "Bearing1_1/60.csv",
+      "sha256": "0ace8e6f39150bd736245190294ff310391026597a75dc22dad0383e65fc5df6",
+      "bytes": 1331025
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 61,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/61.csv",
+      "path": "Bearing1_1/61.csv",
+      "sha256": "6620d158a0190b434933d6d87c95c7a6adbcb7fe4240d90b50c2d0e0abbbc3f9",
+      "bytes": 1333098
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 62,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/62.csv",
+      "path": "Bearing1_1/62.csv",
+      "sha256": "f723a9a9861801c23d5d7ca0a4a7620486c8ac288afc1e629f9af97bdce4b07e",
+      "bytes": 1328267
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 63,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/63.csv",
+      "path": "Bearing1_1/63.csv",
+      "sha256": "ca260d999c2feb6da97b7eeca782c9d633c5fb31e9ab64bedc39f797ce5848e1",
+      "bytes": 1329768
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 64,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/64.csv",
+      "path": "Bearing1_1/64.csv",
+      "sha256": "8de5a77dea65c139ca358b8f14e2d75ca0b632c14bc562ec99474a819d4494ad",
+      "bytes": 1329110
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 65,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/65.csv",
+      "path": "Bearing1_1/65.csv",
+      "sha256": "2f88e40906b15b2ecb625d48da4276ecf0f396f3974fc6e1997d748219b784c4",
+      "bytes": 1329047
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 66,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/66.csv",
+      "path": "Bearing1_1/66.csv",
+      "sha256": "a78614f935d9b7a71f6d76a2560db8e988c7270812142d58f8309cb1e4edfd7a",
+      "bytes": 1331042
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 67,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/67.csv",
+      "path": "Bearing1_1/67.csv",
+      "sha256": "7be835400d554218dfe757fbd0a9101eb4a5e7e16ad065dce8274921913fc43f",
+      "bytes": 1328006
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 68,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/68.csv",
+      "path": "Bearing1_1/68.csv",
+      "sha256": "de7c0a6eaba87b9b004fdd7542e36bb07429ffabcef3cdb8e4d46e8d710ab8d7",
+      "bytes": 1329076
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 69,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/69.csv",
+      "path": "Bearing1_1/69.csv",
+      "sha256": "088757a8df96a783730cae71f2c2e372412cd314b6375fa2daa22f6d8218ef43",
+      "bytes": 1330058
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 70,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/70.csv",
+      "path": "Bearing1_1/70.csv",
+      "sha256": "d4bcd85db119c6d839e07c2f4381a6b84506304119718d15299f36cb2f3c5f08",
+      "bytes": 1328661
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 71,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/71.csv",
+      "path": "Bearing1_1/71.csv",
+      "sha256": "2b1cb36daf2b4e6709c9cbbffece6575feaca9791880c803ce2eac9cd764ded5",
+      "bytes": 1328032
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 72,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/72.csv",
+      "path": "Bearing1_1/72.csv",
+      "sha256": "d239c2d573ce184a96d4784d6b5af6a5740b7123dcc7a42b6574c086c8295b4a",
+      "bytes": 1327869
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 73,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/73.csv",
+      "path": "Bearing1_1/73.csv",
+      "sha256": "c834c319b4cbe355dee540f73f3fb9be0e91c9d3b99bd0741f2648978b480e60",
+      "bytes": 1328173
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 74,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/74.csv",
+      "path": "Bearing1_1/74.csv",
+      "sha256": "d98574a1ede9e4a29ac822a87c704899ebeaa35c7b9031f6d7d3c8a9119a0c42",
+      "bytes": 1328941
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 75,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/75.csv",
+      "path": "Bearing1_1/75.csv",
+      "sha256": "b3e77891ec8f693b89f25ac6f1d93da6bffdd162728e6477fa78c60e297a27a3",
+      "bytes": 1325863
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 76,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/76.csv",
+      "path": "Bearing1_1/76.csv",
+      "sha256": "22bb73e40a173ac0eaa6d7d30c94a1fa7a1d14e3f1d764fe052674abdf1ed5d8",
+      "bytes": 1324174
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 77,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/77.csv",
+      "path": "Bearing1_1/77.csv",
+      "sha256": "1f38d7a8d7b2a82ffd24d83771398bbe84fce1397ce6c9cbfc5a7f8f3a1451de",
+      "bytes": 1326206
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 78,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/78.csv",
+      "path": "Bearing1_1/78.csv",
+      "sha256": "622b47f5b5d75e83ee9bfc4522c11234fee35db84f7413d1d1e9f4f3af15af1d",
+      "bytes": 1323150
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 79,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/79.csv",
+      "path": "Bearing1_1/79.csv",
+      "sha256": "77419391c5437fb3eb5a0ee19255e95254d92bd2029eaeb9457c579b802e8489",
+      "bytes": 1306503
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 80,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/80.csv",
+      "path": "Bearing1_1/80.csv",
+      "sha256": "9ce2277f9e1f1f771227ab385534acd5bff29b3fadd7f7a2d55bb86124f602f8",
+      "bytes": 1303239
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 81,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/81.csv",
+      "path": "Bearing1_1/81.csv",
+      "sha256": "d264c98915a48c3aecb9ccb21108f917e5c2943c722a0d08faf273acce83db70",
+      "bytes": 1302231
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 82,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/82.csv",
+      "path": "Bearing1_1/82.csv",
+      "sha256": "50e9650b99d25d00304af7350c9052234a2960506c92f6ba5398b164622b4fa1",
+      "bytes": 1302981
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 83,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/83.csv",
+      "path": "Bearing1_1/83.csv",
+      "sha256": "62a9ba35aa84444c1859bbf25287266464964a951559a318dd24c087c8dbdaad",
+      "bytes": 1302597
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 84,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/84.csv",
+      "path": "Bearing1_1/84.csv",
+      "sha256": "d12db11f679ac0c05acba31a6775cfe59c80e31c7f19156ce1d4ad755a032d78",
+      "bytes": 1301041
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 85,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/85.csv",
+      "path": "Bearing1_1/85.csv",
+      "sha256": "6caf6c2db9f1f7cb241b24445bfddc4b2bd9bf0df6a0295978d964dfce5cc384",
+      "bytes": 1300884
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 86,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/86.csv",
+      "path": "Bearing1_1/86.csv",
+      "sha256": "f8d443ef109feb1aff21cf3b075a012a5c30dd7de38c2dcf604a332bd67f7699",
+      "bytes": 1299610
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 87,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/87.csv",
+      "path": "Bearing1_1/87.csv",
+      "sha256": "e0516b604df54b698e5d3320c3ec6e9ed9a25ca39207f122f1c38e38896e18b6",
+      "bytes": 1299298
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 88,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/88.csv",
+      "path": "Bearing1_1/88.csv",
+      "sha256": "209923b8d2260fcd8787384e05bc883d609b8a666baa86fb26736a0008bab425",
+      "bytes": 1297999
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 89,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/89.csv",
+      "path": "Bearing1_1/89.csv",
+      "sha256": "bfbd128fe3a72ef930e6ce7c794002dea6cb57f1faba70e734d5b2936736e585",
+      "bytes": 1297557
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 90,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/90.csv",
+      "path": "Bearing1_1/90.csv",
+      "sha256": "1e37b0ce5e4e8c6d6d1779fbc13d11d0eaa8dc334a1e54a1359a9421d9751346",
+      "bytes": 1295816
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 91,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/91.csv",
+      "path": "Bearing1_1/91.csv",
+      "sha256": "4c18a6075a63c02a12c2cdab3f13d6935ede7efc36844ea6ec158915fe8b3e88",
+      "bytes": 1296585
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 92,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/92.csv",
+      "path": "Bearing1_1/92.csv",
+      "sha256": "fb0f62bdf9031d952718fec6c6999eeb445b732ddbbbfd214d15b41fb7b2a251",
+      "bytes": 1296636
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 93,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/93.csv",
+      "path": "Bearing1_1/93.csv",
+      "sha256": "e3fe265efa72f5d871e7f7d1cb705e3de86c4adadc72504ecc9a69e546de0cf0",
+      "bytes": 1295995
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 94,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/94.csv",
+      "path": "Bearing1_1/94.csv",
+      "sha256": "633fed181627f7704241d3fa7d9936f072a3c331b22e84e1cba6949f62ac2994",
+      "bytes": 1295078
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 95,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/95.csv",
+      "path": "Bearing1_1/95.csv",
+      "sha256": "e526cc2e15b8b94aa0304527648e6655cbe81fab89e0e7498640824693f57196",
+      "bytes": 1294517
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 96,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/96.csv",
+      "path": "Bearing1_1/96.csv",
+      "sha256": "51abc36559d57197728698fdfea0cf43e8e432b3803afa12565a202d856c8e9d",
+      "bytes": 1294641
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 97,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/97.csv",
+      "path": "Bearing1_1/97.csv",
+      "sha256": "17dde7e71550568c19eb43008587f7a3dc657a4f55ead8ceb337ba82162dd236",
+      "bytes": 1293418
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 98,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/98.csv",
+      "path": "Bearing1_1/98.csv",
+      "sha256": "57044cfac186601332e36a612838906553de3ce27d9a8b8a71b7f362c043c60b",
+      "bytes": 1293854
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 99,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/99.csv",
+      "path": "Bearing1_1/99.csv",
+      "sha256": "4296aa5943aa0bb763f76762c5c1d625e43b124d941f1bf2e707e7fc49521358",
+      "bytes": 1293194
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 100,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/100.csv",
+      "path": "Bearing1_1/100.csv",
+      "sha256": "a47860187be9b7cff4dfd90e256293372abd9b55b3c7764f82caf7118a228192",
+      "bytes": 1294430
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 101,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/101.csv",
+      "path": "Bearing1_1/101.csv",
+      "sha256": "697d589453908a703659545fabd0195cf9ef33b9b5a3aef9bcd0c15a287ba500",
+      "bytes": 1292948
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 102,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/102.csv",
+      "path": "Bearing1_1/102.csv",
+      "sha256": "926a5ae1019753bb73b4e757def5988cf86f4b340a97fdeeb8c20487e4f4d36c",
+      "bytes": 1292733
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 103,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/103.csv",
+      "path": "Bearing1_1/103.csv",
+      "sha256": "4422ebbc3805ec0fa1935090294fa3bfed1c42b5f727dba766d77c383b1cb761",
+      "bytes": 1292971
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 104,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/104.csv",
+      "path": "Bearing1_1/104.csv",
+      "sha256": "02340d00f6fdc498efb5fd59f5a515a398adcf7feeea6adc94e9c7c3f2a02c70",
+      "bytes": 1292043
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 105,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/105.csv",
+      "path": "Bearing1_1/105.csv",
+      "sha256": "ca4ce2b70b902e0b5dcb9d5fc45104a5f8a10b2258fd06699efa296bca645f8e",
+      "bytes": 1292601
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 106,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/106.csv",
+      "path": "Bearing1_1/106.csv",
+      "sha256": "24efb65ac83ea2130e2534f39b58f6fc72349f07b45fb6b7c15e9b680fad91f7",
+      "bytes": 1292563
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 107,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/107.csv",
+      "path": "Bearing1_1/107.csv",
+      "sha256": "177b9b26b9de1fd5c40827e8de8d69f7bd5a242c9f13f1740d6f65558ac2baa5",
+      "bytes": 1292644
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 108,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/108.csv",
+      "path": "Bearing1_1/108.csv",
+      "sha256": "44406ff16ff6fa30bf348e01cb4672e02669a21a2f1c6cd22edbb2c2dce65d6f",
+      "bytes": 1292280
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 109,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/109.csv",
+      "path": "Bearing1_1/109.csv",
+      "sha256": "b6613612cf4597775d5bad7f19652dcf04e79420ae9a81a2f230a2fcb32b40de",
+      "bytes": 1292642
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 110,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/110.csv",
+      "path": "Bearing1_1/110.csv",
+      "sha256": "f4737e2ed02323fd6433e0d16500954ef4dc67aee419a0d49abb067d3089be88",
+      "bytes": 1293061
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 111,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/111.csv",
+      "path": "Bearing1_1/111.csv",
+      "sha256": "6e3786f6ef741519c5924eb43a8c2016eee090ed52c580da8ee0fb42a2869f5e",
+      "bytes": 1292581
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 112,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/112.csv",
+      "path": "Bearing1_1/112.csv",
+      "sha256": "a2e334c4c1d3ae50f9ecbb457a1fc649184f065a5a1d6f1c79bc8c9c8c3562dc",
+      "bytes": 1292669
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 113,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/113.csv",
+      "path": "Bearing1_1/113.csv",
+      "sha256": "f7c7ad319510cb6f78ca570e66da060d41580afd2b7ca5dbb85c1977e90b7755",
+      "bytes": 1292681
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 114,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/114.csv",
+      "path": "Bearing1_1/114.csv",
+      "sha256": "30d164d81245fcb6e00cadfbe8e6847264921afe95d496d79c791eb7dec1d86e",
+      "bytes": 1291793
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 115,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/115.csv",
+      "path": "Bearing1_1/115.csv",
+      "sha256": "30118bd244f53ca07305eb70ef5987c35b494865d43a5084683b2d48990f519b",
+      "bytes": 1291698
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 116,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/116.csv",
+      "path": "Bearing1_1/116.csv",
+      "sha256": "f1065d5f6789a5562205eeb036f690309909f8543e0eb6bb00bc4d051a59c765",
+      "bytes": 1292276
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 117,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/117.csv",
+      "path": "Bearing1_1/117.csv",
+      "sha256": "4c324834720a36b3f8cae6742a50f4324740c258c46ce6468bc4ce7eab0bd4fb",
+      "bytes": 1291661
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 118,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/118.csv",
+      "path": "Bearing1_1/118.csv",
+      "sha256": "e8c06478d52600bc93e308f458545d5c0c399ea82dadd75a9f58257fbddec183",
+      "bytes": 1292028
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 119,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/119.csv",
+      "path": "Bearing1_1/119.csv",
+      "sha256": "3194354b4c3061be97f92674b4c84838c4d64daffb49fa6047e6a3f1b34ef977",
+      "bytes": 1292139
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 120,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/120.csv",
+      "path": "Bearing1_1/120.csv",
+      "sha256": "8e78b9b9bda76fae8270d06f40d86c8f3ca8d0d3d367282713e9621e09e90d84",
+      "bytes": 1290410
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 121,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/121.csv",
+      "path": "Bearing1_1/121.csv",
+      "sha256": "5e5ca08cabdb350eb8fb0781662845d4d51ef0de06afa3f82a6a64f3516a4c19",
+      "bytes": 1290170
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 122,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/122.csv",
+      "path": "Bearing1_1/122.csv",
+      "sha256": "a5f17e9010d492284ae18f30f395ed7b50d49b51f6a0a3140008667484760dca",
+      "bytes": 1287202
+    },
+    {
+      "bearing_id": "Bearing1_1",
+      "capture_index": 123,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_1/123.csv",
+      "path": "Bearing1_1/123.csv",
+      "sha256": "ba5d019a4bec62541c51b04e5a62c9aae2f6fb10d78eb5b771253f1a24f53907",
+      "bytes": 1277100
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 1,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/1.csv",
+      "path": "Bearing1_2/1.csv",
+      "sha256": "7f31e4d5a738698c7920ec343baaebd19ace70ebf224c327bffc0050ec814512",
+      "bytes": 1334221
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 2,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/2.csv",
+      "path": "Bearing1_2/2.csv",
+      "sha256": "ac19611c5c9c85e32d1ebfdb450a64c2f9dbbb70e23042a7b45691d67ceb8600",
+      "bytes": 1334731
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 3,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/3.csv",
+      "path": "Bearing1_2/3.csv",
+      "sha256": "210bcf62db3f0fa3a4f91f7f5734ce58ada8e8c40b271096d2c751f9d5c77d12",
+      "bytes": 1333908
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 4,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/4.csv",
+      "path": "Bearing1_2/4.csv",
+      "sha256": "a6956bee1b8efe689665b05e23194e131ddf9a6f8d004b9e1f83331fdd9192bc",
+      "bytes": 1334944
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 5,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/5.csv",
+      "path": "Bearing1_2/5.csv",
+      "sha256": "591610b47bd16434d197bec301f7c74a00161738db89642d66e895b610819fc6",
+      "bytes": 1335625
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 6,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/6.csv",
+      "path": "Bearing1_2/6.csv",
+      "sha256": "2e5a5aa3348cc17d01b54af3091e2fd96d2a03592f14663a861498471536fd30",
+      "bytes": 1336456
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 7,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/7.csv",
+      "path": "Bearing1_2/7.csv",
+      "sha256": "f92ab6943a1a931efa4f0fc0cc97fdf9cf26573b9d7a8a23e69322511e9882f0",
+      "bytes": 1334974
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 8,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/8.csv",
+      "path": "Bearing1_2/8.csv",
+      "sha256": "4b116b126f9909e87386d635c04c412aeae9e5b4dbafc4828890d9858ca94251",
+      "bytes": 1335150
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 9,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/9.csv",
+      "path": "Bearing1_2/9.csv",
+      "sha256": "59f2d12e19140148f891f8f8b645ee81d2121ea8e77d112ea2d7500a2b875db9",
+      "bytes": 1334925
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 10,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/10.csv",
+      "path": "Bearing1_2/10.csv",
+      "sha256": "1145f2ae813c8a093763913d15b7277b54d34e7cfe0b77b5c736daf521d5074f",
+      "bytes": 1334639
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 11,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/11.csv",
+      "path": "Bearing1_2/11.csv",
+      "sha256": "420a09145af82d7e67c052586ddedf93463b3b33d9eee9cb7896362fd83736f5",
+      "bytes": 1334547
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 12,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/12.csv",
+      "path": "Bearing1_2/12.csv",
+      "sha256": "15614391387b900201e596ded77aa47c1c5a68dec09861959d58e25e7afa55f1",
+      "bytes": 1334294
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 13,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/13.csv",
+      "path": "Bearing1_2/13.csv",
+      "sha256": "d30cb1a6469a5710749112dcb034e84a15d52088b09e6c71f72ea0f26ccc1240",
+      "bytes": 1335588
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 14,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/14.csv",
+      "path": "Bearing1_2/14.csv",
+      "sha256": "0d46083299b4f16410f4fd7623e047fd6e6e13d73c8e8101116cf8635f422488",
+      "bytes": 1336030
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 15,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/15.csv",
+      "path": "Bearing1_2/15.csv",
+      "sha256": "7355d8f1effc1dc8aded1e03d9d5e8e33c0394635d9bdd500d13f120f4a1efd5",
+      "bytes": 1335208
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 16,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/16.csv",
+      "path": "Bearing1_2/16.csv",
+      "sha256": "59931ad3e34b00056b540e759a9d8e589c43e08ec7cefebbde4c81b04744757b",
+      "bytes": 1335968
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 17,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/17.csv",
+      "path": "Bearing1_2/17.csv",
+      "sha256": "98fcb7f8e2be4c5dc997719c6fa116f11ad88343a812190cebe680b7cd7621a8",
+      "bytes": 1336757
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 18,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/18.csv",
+      "path": "Bearing1_2/18.csv",
+      "sha256": "abf380dc8dfbda30f010299d8a2167f07a2dc4d7af485980b6d812d3eae602e3",
+      "bytes": 1333489
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 19,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/19.csv",
+      "path": "Bearing1_2/19.csv",
+      "sha256": "8221c72267ceb50adaeaddf0dfc2c99499e2d455e047c1d8660b0e33b9f842dc",
+      "bytes": 1335492
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 20,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/20.csv",
+      "path": "Bearing1_2/20.csv",
+      "sha256": "9b5d3c38fde5ccbb9bf74375dc573a09e3fc897e84ecb251608291dcc66f0720",
+      "bytes": 1335246
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 21,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/21.csv",
+      "path": "Bearing1_2/21.csv",
+      "sha256": "9ee467d0acf2e9ca62837c19f13cdee80e6704c0b71b452e232a284eab494ed0",
+      "bytes": 1335120
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 22,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/22.csv",
+      "path": "Bearing1_2/22.csv",
+      "sha256": "d57ae02066b9a9ba717ffcca49e5d7758507d0ef9459f1daac5758bcc37fea97",
+      "bytes": 1336630
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 23,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/23.csv",
+      "path": "Bearing1_2/23.csv",
+      "sha256": "2579cefa508dd45da7c0550b76318b2a965bbdd7bdb954cb79082021c7b25319",
+      "bytes": 1334751
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 24,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/24.csv",
+      "path": "Bearing1_2/24.csv",
+      "sha256": "37d3c05d5f38a02b71cb96be5975858122599b7c2004d2105080e8fe33c0adbe",
+      "bytes": 1334381
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 25,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/25.csv",
+      "path": "Bearing1_2/25.csv",
+      "sha256": "8b027bd95ac6c78ac41e031a17809fdf93ab8867cf04f12346a36ebb15efe0fb",
+      "bytes": 1334435
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 26,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/26.csv",
+      "path": "Bearing1_2/26.csv",
+      "sha256": "c5d87aaf90b4f246c8bd69f6dd28873a81e1bb83ac09fad9a98c49818b535cca",
+      "bytes": 1336251
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 27,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/27.csv",
+      "path": "Bearing1_2/27.csv",
+      "sha256": "a94fcc3a2e18c6a0da2800e7fa4986150c81920e6ceae1a614d8ce3cd5a444a1",
+      "bytes": 1336352
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 28,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/28.csv",
+      "path": "Bearing1_2/28.csv",
+      "sha256": "78230f49ed509d5301dd2e467c6f0564bda56518d63cab60ff68cbeadfbf12df",
+      "bytes": 1334612
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 29,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/29.csv",
+      "path": "Bearing1_2/29.csv",
+      "sha256": "4d9b39c639c3e7d14c74539a6f44afca7a3067b98adffd2d153446c6a6675784",
+      "bytes": 1336055
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 30,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/30.csv",
+      "path": "Bearing1_2/30.csv",
+      "sha256": "bba27e16df915fd1f6c8ec1e4922c2999932a470b5e9298ad4871982d8ff3fed",
+      "bytes": 1335384
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 31,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/31.csv",
+      "path": "Bearing1_2/31.csv",
+      "sha256": "97a07cdd8735678449fb04469a74566ac57b427781f4924db15eba55b1122119",
+      "bytes": 1333802
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 32,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/32.csv",
+      "path": "Bearing1_2/32.csv",
+      "sha256": "899e7f16cd832ee2cf25587869cb1ebd7e0e84247bdff20746ee392865e786e1",
+      "bytes": 1328989
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 33,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/33.csv",
+      "path": "Bearing1_2/33.csv",
+      "sha256": "6ab68100f852da7cf21d1ea65acc2682aee444496976330452e876e6344d0058",
+      "bytes": 1329861
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 34,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/34.csv",
+      "path": "Bearing1_2/34.csv",
+      "sha256": "6f7b31d216f8dfe12f2ea987d87c1a19a100a72c37cf4b20852878b29da4f66e",
+      "bytes": 1329445
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 35,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/35.csv",
+      "path": "Bearing1_2/35.csv",
+      "sha256": "4990fcc90a6ed8b4c5f41fec0c7f8182b61796b75cda339e6249bbaf71964ef3",
+      "bytes": 1328529
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 36,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/36.csv",
+      "path": "Bearing1_2/36.csv",
+      "sha256": "a2ae33cf84e2b3b8cbb89ed4c065cfdf57ae394103db1aca9404bf96969a4b27",
+      "bytes": 1328383
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 37,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/37.csv",
+      "path": "Bearing1_2/37.csv",
+      "sha256": "27c8af64ded00a9b7e291d8ce88ae510562f75de63ed455e816f780f9872294e",
+      "bytes": 1326834
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 38,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/38.csv",
+      "path": "Bearing1_2/38.csv",
+      "sha256": "6f323a101ca3cf571fc7fba258bfd09a3be3ef021a15de7ad81d82bf22d33e7e",
+      "bytes": 1326849
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 39,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/39.csv",
+      "path": "Bearing1_2/39.csv",
+      "sha256": "cd9628976c905fbaa52d6c3b1e9f162782f129200e9f03bd7a3fd8b37d95395a",
+      "bytes": 1325248
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 40,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/40.csv",
+      "path": "Bearing1_2/40.csv",
+      "sha256": "23e746d7e92d2062e34bf7fa1d8187525e99317a81125f81323d69e72a82f6bc",
+      "bytes": 1325040
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 41,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/41.csv",
+      "path": "Bearing1_2/41.csv",
+      "sha256": "9885dc1073d3f5f85daec25eece5e45de00f59a46db8d59a86c9b60708c6143f",
+      "bytes": 1323604
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 42,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/42.csv",
+      "path": "Bearing1_2/42.csv",
+      "sha256": "1be999f6146c6f79a33cd05e3671fdc00c8db330664ae591535d9eff288d34da",
+      "bytes": 1324539
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 43,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/43.csv",
+      "path": "Bearing1_2/43.csv",
+      "sha256": "334a9fb6ff66c2830af340c45ed21783db3e432fdbc5095b9ea08b062e2e2f16",
+      "bytes": 1324567
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 44,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/44.csv",
+      "path": "Bearing1_2/44.csv",
+      "sha256": "7a695e507e69b6a5c6ecc0fb3819da8af3631c1f1058e415ff10ced7f6fa2e90",
+      "bytes": 1324441
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 45,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/45.csv",
+      "path": "Bearing1_2/45.csv",
+      "sha256": "fdb24b1edf2e1a03bd7f5db7c3c623a63ec6c35db8c383faba405b3b03081ef5",
+      "bytes": 1325407
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 46,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/46.csv",
+      "path": "Bearing1_2/46.csv",
+      "sha256": "9ff537d5869843f7e85d4b24d012808c3fd6a98315bb75f4874c9c7f811773db",
+      "bytes": 1322669
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 47,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/47.csv",
+      "path": "Bearing1_2/47.csv",
+      "sha256": "49d41437033ee20e585e5b61b19352ceec912577e46421d715dcaaf3d3d0925a",
+      "bytes": 1321784
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 48,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/48.csv",
+      "path": "Bearing1_2/48.csv",
+      "sha256": "8ea022c37274d9e5deb654894269dd4368b30544950eb3cb5dd492a5b724c3fa",
+      "bytes": 1322266
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 49,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/49.csv",
+      "path": "Bearing1_2/49.csv",
+      "sha256": "a8f3bdce33510fe9ee1b6ee98a4fc1ece5315aa11667bbceedb43057f4a5d5b9",
+      "bytes": 1323670
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 50,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/50.csv",
+      "path": "Bearing1_2/50.csv",
+      "sha256": "4ee9bcd53a000a3b776c1359fdcdf6c8d4cffd819271d7be12a3ead0f411e86e",
+      "bytes": 1321195
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 51,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/51.csv",
+      "path": "Bearing1_2/51.csv",
+      "sha256": "9f796eb0d4727912eb8749482fb650246cb7acfbd74e54e101a9bc3f228e705c",
+      "bytes": 1319631
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 52,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/52.csv",
+      "path": "Bearing1_2/52.csv",
+      "sha256": "e30cd1819b6773448132b3576bafd52863026694aec7bfe38e8c57e7bcf5bf9c",
+      "bytes": 1320449
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 53,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/53.csv",
+      "path": "Bearing1_2/53.csv",
+      "sha256": "da9daf96d399f3162662a1bf9ae1c908f379ec1d49229dbfb22b9220644e608f",
+      "bytes": 1317376
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 54,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/54.csv",
+      "path": "Bearing1_2/54.csv",
+      "sha256": "976499bad9fdae850660a1a3be3c13072b7e0bf1f2a8c7aa48c932bfc0d40440",
+      "bytes": 1316922
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 55,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/55.csv",
+      "path": "Bearing1_2/55.csv",
+      "sha256": "7324080cd8fd8c1f4fce54f3070d0974082ac91e25ab2b73cf58ea03ac6631db",
+      "bytes": 1316920
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 56,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/56.csv",
+      "path": "Bearing1_2/56.csv",
+      "sha256": "325b4d43ed7e3e8c94f6ba52270ed51912926229cb245f05c774ce4f6bf981e0",
+      "bytes": 1313666
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 57,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/57.csv",
+      "path": "Bearing1_2/57.csv",
+      "sha256": "488a09666f3acc2ce184ca815a5d02fd311eed8bca9924b8f6f7c155a06df330",
+      "bytes": 1309952
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 58,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/58.csv",
+      "path": "Bearing1_2/58.csv",
+      "sha256": "993db91151086f997205fcbecd8e3b545c5a92cde048cd97ed2377cfee0efaef",
+      "bytes": 1305802
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 59,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/59.csv",
+      "path": "Bearing1_2/59.csv",
+      "sha256": "ecd372d2f2d0264340d6c51dd7beb98ecbfef219d54b09420ebe9062f9fb51d7",
+      "bytes": 1303968
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 60,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/60.csv",
+      "path": "Bearing1_2/60.csv",
+      "sha256": "0519153e910279ee8f511454a12f88e6c3165db5861c32717a1bc81c7d25a78f",
+      "bytes": 1302750
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 61,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/61.csv",
+      "path": "Bearing1_2/61.csv",
+      "sha256": "dbc4f92e37426857677711139b06650f6646c86e4aa37a8596ac3750f87bf9a0",
+      "bytes": 1303275
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 62,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/62.csv",
+      "path": "Bearing1_2/62.csv",
+      "sha256": "e37658eea1aa763ce3fe27b0ee21451407873e15ce79c6033207846228b58b67",
+      "bytes": 1302765
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 63,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/63.csv",
+      "path": "Bearing1_2/63.csv",
+      "sha256": "b77c9f3816ce2ebfd0dced39d75d1405f555118033cedbf80e4f5abaaca7886d",
+      "bytes": 1300316
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 64,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/64.csv",
+      "path": "Bearing1_2/64.csv",
+      "sha256": "07561f44f3cfdf058ec00154ca07a9cf921b200b99855eefcb801d5877077007",
+      "bytes": 1291061
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 65,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/65.csv",
+      "path": "Bearing1_2/65.csv",
+      "sha256": "2b2245319e0b55f759a95f3fb3c9795bacbc332fefe39d01ef0030b48ad0397c",
+      "bytes": 1290924
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 66,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/66.csv",
+      "path": "Bearing1_2/66.csv",
+      "sha256": "1750822dd67cadfadeebf7d7ee4a73e38c38f194bda23d4f6449c798d87c5d5e",
+      "bytes": 1289934
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 67,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/67.csv",
+      "path": "Bearing1_2/67.csv",
+      "sha256": "0adbdef8b1f742cbbb726b447789babff6a1bb2ccbc5b9da039147b5d6da9648",
+      "bytes": 1289875
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 68,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/68.csv",
+      "path": "Bearing1_2/68.csv",
+      "sha256": "7a56781596efb159691ebfdf9a63a7d6b13ccfc8d01c028fc025dfb1da69f625",
+      "bytes": 1288940
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 69,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/69.csv",
+      "path": "Bearing1_2/69.csv",
+      "sha256": "36aea008a16c37f157e40c0c1b75d4bd99b82d6d0af549b5112ce43fe016b251",
+      "bytes": 1286062
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 70,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/70.csv",
+      "path": "Bearing1_2/70.csv",
+      "sha256": "b46bfa3664cffb7b0e4407a3a78ae298793aa3b23dd81ab65fa0adc96fa7a1ff",
+      "bytes": 1285308
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 71,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/71.csv",
+      "path": "Bearing1_2/71.csv",
+      "sha256": "26dfd705d7a1cf5c781b1365a2f03429d29585510cb671344a114f0da07d2503",
+      "bytes": 1285412
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 72,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/72.csv",
+      "path": "Bearing1_2/72.csv",
+      "sha256": "b1d89a385c217513ec3f14cde57c68586599caad6db0a38863cc52640a8953b1",
+      "bytes": 1285122
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 73,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/73.csv",
+      "path": "Bearing1_2/73.csv",
+      "sha256": "c5662e2da50ce7c520815351511536bdf819b59b061315dc8b7900c80aeda02f",
+      "bytes": 1284796
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 74,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/74.csv",
+      "path": "Bearing1_2/74.csv",
+      "sha256": "f099264ec6d58c8ca0862a209ef15776d353d7f7079493c7951af49876808ea2",
+      "bytes": 1284755
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 75,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/75.csv",
+      "path": "Bearing1_2/75.csv",
+      "sha256": "1004e7ef5f193a917f59cf4881f1b96742c88fca7daefc55d3fe376757eb3643",
+      "bytes": 1286143
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 76,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/76.csv",
+      "path": "Bearing1_2/76.csv",
+      "sha256": "4e369ec301402b7597be6297d29e349ff85c5d3e5ab14591b0f2d61eb1bbd03b",
+      "bytes": 1289319
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 77,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/77.csv",
+      "path": "Bearing1_2/77.csv",
+      "sha256": "53c1a389f4965d96091d3e5107539f922a80163160ea0eea077960cdce2e11ac",
+      "bytes": 1288942
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 78,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/78.csv",
+      "path": "Bearing1_2/78.csv",
+      "sha256": "dfe23946cc31e368022b2cc331d554d6250f8d0805d0beb87b8427dc08aaf2b2",
+      "bytes": 1289646
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 79,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/79.csv",
+      "path": "Bearing1_2/79.csv",
+      "sha256": "b40b265e91fbdc48bdd5461e42edd3cf152f154ca102b4abfcb65f84efbcf037",
+      "bytes": 1289086
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 80,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/80.csv",
+      "path": "Bearing1_2/80.csv",
+      "sha256": "ffecb2c6162ed033262fed738b55e76facaee02cbf122017c7653336792e023d",
+      "bytes": 1289336
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 81,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/81.csv",
+      "path": "Bearing1_2/81.csv",
+      "sha256": "21490098c67fa2310fd5543750d4ec8a098973bff6b2c231b9cbf1fd842b7ebb",
+      "bytes": 1288449
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 82,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/82.csv",
+      "path": "Bearing1_2/82.csv",
+      "sha256": "e3d98a58f85f4a7f242adfe91166d0b38ff3c92b23f90eacd2722f84ac528d06",
+      "bytes": 1289258
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 83,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/83.csv",
+      "path": "Bearing1_2/83.csv",
+      "sha256": "ee098bc7b4cfe9686c57fc5836228f0bdd2b16f158a4dae29c8143aa0e8728d2",
+      "bytes": 1289263
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 84,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/84.csv",
+      "path": "Bearing1_2/84.csv",
+      "sha256": "2ce5927b75ca90d4aa574c09dce7aba757564ffa5687370ade2d68d085b4ef93",
+      "bytes": 1288129
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 85,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/85.csv",
+      "path": "Bearing1_2/85.csv",
+      "sha256": "aaf1d9de65ab76525c77a66e27c39d536561ca99f7d79fda1b0b42887e7246ea",
+      "bytes": 1287963
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 86,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/86.csv",
+      "path": "Bearing1_2/86.csv",
+      "sha256": "9e31199f632ac4217c9a9c96c29b6543dac7dab75351a7a29cca79a683e6d404",
+      "bytes": 1288519
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 87,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/87.csv",
+      "path": "Bearing1_2/87.csv",
+      "sha256": "799fbc1540278afd9ef1f709368c8eb539deee4fbae3f16b4a3a145fc5d2a28c",
+      "bytes": 1288705
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 88,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/88.csv",
+      "path": "Bearing1_2/88.csv",
+      "sha256": "233d790d3df9a73f8f07bd861bcd791ca55f78a7e46d4fe302070ab3afec1054",
+      "bytes": 1289751
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 89,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/89.csv",
+      "path": "Bearing1_2/89.csv",
+      "sha256": "8d92db33317f05eaa74f97fca7145811d95a001ed1763d53724bf44bb3119ad6",
+      "bytes": 1290204
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 90,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/90.csv",
+      "path": "Bearing1_2/90.csv",
+      "sha256": "c6494443990a3f89a2f6b3f469419cd8e89806ad49b787dc002b165a7681723e",
+      "bytes": 1289228
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 91,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/91.csv",
+      "path": "Bearing1_2/91.csv",
+      "sha256": "7b4b623957ffbdd0de6a91ec8b8f0b794ea50db09f8606dfa2eac232c90e000e",
+      "bytes": 1290885
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 92,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/92.csv",
+      "path": "Bearing1_2/92.csv",
+      "sha256": "a5bc71146eb5045207c3880b02328f678d404fd77a78366ff544bf6515615dea",
+      "bytes": 1291364
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 93,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/93.csv",
+      "path": "Bearing1_2/93.csv",
+      "sha256": "bfa9b8135380154b75617a60251067b1f85591bd6e2c99d727e99d89c55dced3",
+      "bytes": 1291672
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 94,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/94.csv",
+      "path": "Bearing1_2/94.csv",
+      "sha256": "58826b5c060e220faed19c120aa4ad3494ee2a5b7016db3ca68c17bd6c8d7c28",
+      "bytes": 1291462
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 95,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/95.csv",
+      "path": "Bearing1_2/95.csv",
+      "sha256": "32258b116dcde0465e4fe5a2f5491776cc599e166bac7fd5ecf04e02299ddb30",
+      "bytes": 1290553
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 96,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/96.csv",
+      "path": "Bearing1_2/96.csv",
+      "sha256": "6c466e5a13f47d498f9dfe0447bcf7271b2e3a9f06a0f16e51eace27a0c6d16f",
+      "bytes": 1290167
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 97,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/97.csv",
+      "path": "Bearing1_2/97.csv",
+      "sha256": "6d63fd862b0c126d9ff03e872807307bde270208ee14bb1c4225160b8d8d3eba",
+      "bytes": 1290311
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 98,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/98.csv",
+      "path": "Bearing1_2/98.csv",
+      "sha256": "6df29e2e6466520f3acab31148f0dd2fac043184fe799901b9e2b995023e2719",
+      "bytes": 1288966
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 99,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/99.csv",
+      "path": "Bearing1_2/99.csv",
+      "sha256": "517c50d805ba6b271248eaa40ceb29adcaea9c458fdd31de62538ef5e3c1ff73",
+      "bytes": 1288322
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 100,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/100.csv",
+      "path": "Bearing1_2/100.csv",
+      "sha256": "ff42aecf1f90c735c41b04dd1d8c82b42cf463f7b8b98767ccb7229f00ec86a6",
+      "bytes": 1288031
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 101,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/101.csv",
+      "path": "Bearing1_2/101.csv",
+      "sha256": "4c7f2b6d143767720e59cb9d7f0b68f4f762c9797c1ec6a1ad718b90dae2a69f",
+      "bytes": 1287632
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 102,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/102.csv",
+      "path": "Bearing1_2/102.csv",
+      "sha256": "3c2c63b4a28393444a178e1218b9613fee649ad5af0cd603afebedeb1e10d9f6",
+      "bytes": 1287698
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 103,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/103.csv",
+      "path": "Bearing1_2/103.csv",
+      "sha256": "bcf52702910be71ea88bbc612a51114f87c7968a23c398d51f5509e4f747ad6c",
+      "bytes": 1285088
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 104,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/104.csv",
+      "path": "Bearing1_2/104.csv",
+      "sha256": "cedeaf338cb9f9fa0815cd862a741cdb15541509496d449a88c7116aea2ccab4",
+      "bytes": 1284757
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 105,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/105.csv",
+      "path": "Bearing1_2/105.csv",
+      "sha256": "85e6fb6391fc68d23626f1b07a97e5d43918f1daf3615196832c08a0e604aa50",
+      "bytes": 1283083
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 106,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/106.csv",
+      "path": "Bearing1_2/106.csv",
+      "sha256": "f060d36d0f7bd05e7d4c39dacffb24c5d7a07bbf6b6712d486b8d82a8a0fcfe9",
+      "bytes": 1282899
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 107,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/107.csv",
+      "path": "Bearing1_2/107.csv",
+      "sha256": "16ca7f880f8be09a28e7e098c3bc49c21a5b86f6890e3b913ef4b66affdc01cd",
+      "bytes": 1284603
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 108,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/108.csv",
+      "path": "Bearing1_2/108.csv",
+      "sha256": "7102069e696ef235cdc2210d68fb96f8cb8736c09c7d91e8b2d9ae6801972ea0",
+      "bytes": 1285421
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 109,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/109.csv",
+      "path": "Bearing1_2/109.csv",
+      "sha256": "ae1dd08534ccaf1dfa84ca47bcb47379e705893ccc3726a00df1fcb4b914b04d",
+      "bytes": 1288103
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 110,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/110.csv",
+      "path": "Bearing1_2/110.csv",
+      "sha256": "610666dcef5e19ef3b54168661d0e9446c43371ded7dcc210eae8979c31939c0",
+      "bytes": 1289981
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 111,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/111.csv",
+      "path": "Bearing1_2/111.csv",
+      "sha256": "cebfbcd631f802c3a6a486a16578bd22197aa00c8400d56445df323d7003a5f9",
+      "bytes": 1289535
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 112,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/112.csv",
+      "path": "Bearing1_2/112.csv",
+      "sha256": "49e1f4d95d0910b37ce5e7eae81dbf832501fe6fe0025aa2a58110d092880654",
+      "bytes": 1290578
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 113,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/113.csv",
+      "path": "Bearing1_2/113.csv",
+      "sha256": "2ce61f2384c63ad3fa2d4b0c77ad348607d3cddc43d517e5905a07631224081f",
+      "bytes": 1291586
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 114,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/114.csv",
+      "path": "Bearing1_2/114.csv",
+      "sha256": "784ae61cb3d1a71683e302d7a03ead83ceb9edf418862cd284287c32cb909ff6",
+      "bytes": 1292059
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 115,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/115.csv",
+      "path": "Bearing1_2/115.csv",
+      "sha256": "284c8de1986c48d03c8a49b1acf11a7a74348579594e9919ed9f8a41c92c8a24",
+      "bytes": 1292337
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 116,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/116.csv",
+      "path": "Bearing1_2/116.csv",
+      "sha256": "13b03b84a0269f79be0674caf0a9ac8fd9cf71ae8649bc571f1933424a80496f",
+      "bytes": 1292863
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 117,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/117.csv",
+      "path": "Bearing1_2/117.csv",
+      "sha256": "af6a081d551c29db4b94f6977ea1396caae5dbb338c6716c345676c6ef40f1a8",
+      "bytes": 1291764
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 118,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/118.csv",
+      "path": "Bearing1_2/118.csv",
+      "sha256": "4fbf35e9a5837504efa828ed9cc2484a2a96bbed1bb848f23dc013400aecfb77",
+      "bytes": 1291561
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 119,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/119.csv",
+      "path": "Bearing1_2/119.csv",
+      "sha256": "5ba9fb8ae83ebc9b354370bdb34c7e945fa5e525ae3d7655c4240b0c06936f40",
+      "bytes": 1291361
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 120,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/120.csv",
+      "path": "Bearing1_2/120.csv",
+      "sha256": "265a807229d27bc63c61db7731e1c05bb0485825818db9ff5beac66d22a28b63",
+      "bytes": 1289798
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 121,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/121.csv",
+      "path": "Bearing1_2/121.csv",
+      "sha256": "9b3d426bc3c950473170862259a8c73edc3216081aa98222c32ed172de12e810",
+      "bytes": 1289053
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 122,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/122.csv",
+      "path": "Bearing1_2/122.csv",
+      "sha256": "9b3ccd0152e8f5bc77e1e94cc8776439934e173a4d72e02f84c0b51ca5832354",
+      "bytes": 1287590
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 123,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/123.csv",
+      "path": "Bearing1_2/123.csv",
+      "sha256": "a0b6e1fa3894fe865ae392310290420aeb5ce1caf21ef0fa4a2171cef60a54dd",
+      "bytes": 1287442
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 124,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/124.csv",
+      "path": "Bearing1_2/124.csv",
+      "sha256": "e7068a80e6557b1e020f475b24af50e56594109fa9e664ccfc5ee6de260a2714",
+      "bytes": 1286660
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 125,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/125.csv",
+      "path": "Bearing1_2/125.csv",
+      "sha256": "d53c4c4778d155fddec22c6f3caacd5f9fbbe27697bb2db97b9463fdd5be48f6",
+      "bytes": 1286144
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 126,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/126.csv",
+      "path": "Bearing1_2/126.csv",
+      "sha256": "286030f017445d252233fe833bf0e02c7700189ac34f4831f4dea5b223675eb9",
+      "bytes": 1283565
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 127,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/127.csv",
+      "path": "Bearing1_2/127.csv",
+      "sha256": "f237eba5b7b2c350fbe95ab2e4011d13bf6b46d6dce7406cd764d1ef5992325d",
+      "bytes": 1284860
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 128,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/128.csv",
+      "path": "Bearing1_2/128.csv",
+      "sha256": "c54703a228a50fbf27efd20eaf113190537e15aedc3edf0d6b6a0ac30a87b769",
+      "bytes": 1284341
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 129,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/129.csv",
+      "path": "Bearing1_2/129.csv",
+      "sha256": "59a39e0121c034bfd4a17e6897f95c24ac347f9c413060cf985ea6e83c9fb716",
+      "bytes": 1283344
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 130,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/130.csv",
+      "path": "Bearing1_2/130.csv",
+      "sha256": "f2e4efac082b5e630b4a954a4f33227823cfad5f52d4175287d66c9713add146",
+      "bytes": 1282733
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 131,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/131.csv",
+      "path": "Bearing1_2/131.csv",
+      "sha256": "5a19341389e123a839048d639567759991415e05d62e4f6cf499a0a2bc07f6f3",
+      "bytes": 1282695
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 132,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/132.csv",
+      "path": "Bearing1_2/132.csv",
+      "sha256": "19f0f6092e2fdf0e698c8a4596368999ec71c04a7753d6236cb2a522d881c1ec",
+      "bytes": 1282553
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 133,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/133.csv",
+      "path": "Bearing1_2/133.csv",
+      "sha256": "7b18944cb446328d4706ffece8aa64aa0c835eaa7c78039e992e797934c13dc3",
+      "bytes": 1283345
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 134,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/134.csv",
+      "path": "Bearing1_2/134.csv",
+      "sha256": "0f0362549dc8257bb2010d727d30fcf96822324fdd7a2049a965875b26ec13f0",
+      "bytes": 1283928
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 135,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/135.csv",
+      "path": "Bearing1_2/135.csv",
+      "sha256": "b7f01298fe4fbd0fb0b74e996770e2f754c76ff67172b356ff2e3f13579d6e2b",
+      "bytes": 1284430
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 136,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/136.csv",
+      "path": "Bearing1_2/136.csv",
+      "sha256": "edf9a65b855bed02d34bd47d2a06f2c6291dcc15372ec827df2e3f1c36fda7f3",
+      "bytes": 1284338
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 137,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/137.csv",
+      "path": "Bearing1_2/137.csv",
+      "sha256": "248fa02ab7cee4419112ec6e393ddf541e8a750b0db9e0262e97630d9b2b0277",
+      "bytes": 1282870
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 138,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/138.csv",
+      "path": "Bearing1_2/138.csv",
+      "sha256": "e06add2d4f6b038db45b587fe3d38a04a4ecdaac82a496791c411abdf62837cd",
+      "bytes": 1282201
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 139,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/139.csv",
+      "path": "Bearing1_2/139.csv",
+      "sha256": "aad9d751b1c2a6a27e9f1644625ee7ac392bfed459520ecf32724b1c06aa7820",
+      "bytes": 1281668
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 140,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/140.csv",
+      "path": "Bearing1_2/140.csv",
+      "sha256": "cdea4a82eba7ff4d8cbbd1274d8d385dc7e5f10b4a6d2802e42d41139d0cc5cf",
+      "bytes": 1282188
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 141,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/141.csv",
+      "path": "Bearing1_2/141.csv",
+      "sha256": "86c9a9161db60f4b927b66cb6238d11e94cd57097903e612794792d6efbe39f9",
+      "bytes": 1282681
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 142,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/142.csv",
+      "path": "Bearing1_2/142.csv",
+      "sha256": "15112e9012893492fc6fd7cb09e7dfe07553c8a8812dacdd5ae07d860d2b4eb8",
+      "bytes": 1283297
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 143,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/143.csv",
+      "path": "Bearing1_2/143.csv",
+      "sha256": "696d0bd99b4d23ef7f77c4f7c2453a9a32895154fe09bbf55b27f1b56bf1ffca",
+      "bytes": 1284298
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 144,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/144.csv",
+      "path": "Bearing1_2/144.csv",
+      "sha256": "e7d3250c59715cf65961641b97687075123285848ea476c815509f20d4a01794",
+      "bytes": 1284025
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 145,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/145.csv",
+      "path": "Bearing1_2/145.csv",
+      "sha256": "099fcb6e0ca59392950637aadb12ed003fbfdcd91bbc88d0c1f7373627fc4dc1",
+      "bytes": 1284271
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 146,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/146.csv",
+      "path": "Bearing1_2/146.csv",
+      "sha256": "643960299cd4d5725adb4e1c43a0589ee8132b24e07a9433a11002db72683785",
+      "bytes": 1283389
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 147,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/147.csv",
+      "path": "Bearing1_2/147.csv",
+      "sha256": "5790d32c4bf317c0d88466b41b230e24b6e8d4b0bc240610e9f5eecfc0ee74a7",
+      "bytes": 1279939
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 148,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/148.csv",
+      "path": "Bearing1_2/148.csv",
+      "sha256": "c6fe6e79bed8f6d1606ced45162c72895e3f9695af845b95590db3378064a831",
+      "bytes": 1278514
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 149,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/149.csv",
+      "path": "Bearing1_2/149.csv",
+      "sha256": "838184268f19e0758dc8ebee101a501d5bdd6a7c01659f296c72eb8303042691",
+      "bytes": 1278711
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 150,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/150.csv",
+      "path": "Bearing1_2/150.csv",
+      "sha256": "7a5cad3c88e73352f258f30974ae96e9bb7376d369c5d07a18e9b6f2ed71d9bf",
+      "bytes": 1277898
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 151,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/151.csv",
+      "path": "Bearing1_2/151.csv",
+      "sha256": "22008c19ee96a47c2d09f9f2b1e631e468e666cd7545e97ca2ae2fb53152f99d",
+      "bytes": 1277658
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 152,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/152.csv",
+      "path": "Bearing1_2/152.csv",
+      "sha256": "ae160f986200374a066f7dd15cfe37eb4026da3b49e8ab9ab17162a12456227f",
+      "bytes": 1276224
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 153,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/153.csv",
+      "path": "Bearing1_2/153.csv",
+      "sha256": "2a1f49b4c0adc6c3f407a519ce27e1c77625e19b9f15b8027669a7a9ea56f7ac",
+      "bytes": 1276639
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 154,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/154.csv",
+      "path": "Bearing1_2/154.csv",
+      "sha256": "0c0884b92d7a862e873215fefd316b22a3d229886341b0b4a8339ed5f0f26040",
+      "bytes": 1276232
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 155,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/155.csv",
+      "path": "Bearing1_2/155.csv",
+      "sha256": "fff10b4b358d1e27c16351840f4a9d3050e6e8c7c36ca42345c169ac73cb43b6",
+      "bytes": 1276659
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 156,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/156.csv",
+      "path": "Bearing1_2/156.csv",
+      "sha256": "e66feb5af40c33b9787ba88cc61d877e3574aaa10afe45e1ffbfd20c784467d4",
+      "bytes": 1275958
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 157,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/157.csv",
+      "path": "Bearing1_2/157.csv",
+      "sha256": "b8270232a7d680d2a2110ad9eeb54714477d4c65343761000c072d84a0961bd4",
+      "bytes": 1276227
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 158,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/158.csv",
+      "path": "Bearing1_2/158.csv",
+      "sha256": "ea661ac118df2116bbb0736ddc4a3301d1b667adadb7c1f6b4ecb82d85b81da2",
+      "bytes": 1275986
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 159,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/159.csv",
+      "path": "Bearing1_2/159.csv",
+      "sha256": "f695965caddf1513a0f4bfbe72289c715d0c227209544cb5773148de2d45de7c",
+      "bytes": 1275414
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 160,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/160.csv",
+      "path": "Bearing1_2/160.csv",
+      "sha256": "50f171130a9e9cade31a8e249c0f34ed696ed6488941cb4e05a1c16bdf50ae36",
+      "bytes": 1275105
+    },
+    {
+      "bearing_id": "Bearing1_2",
+      "capture_index": 161,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_2/161.csv",
+      "path": "Bearing1_2/161.csv",
+      "sha256": "e771de5680ec757b4935462040067788881d075391925e801546faf6dc83f847",
+      "bytes": 1272821
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 1,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/1.csv",
+      "path": "Bearing1_3/1.csv",
+      "sha256": "ca358e98c3091cc9577091cbcb7cc78edaf0d1345c4332d950052df28bbd5943",
+      "bytes": 1340673
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 2,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/2.csv",
+      "path": "Bearing1_3/2.csv",
+      "sha256": "fd341b827dbae963beef58c0203713f949500b052ef44e80da9f0360c8b49d33",
+      "bytes": 1340809
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 3,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/3.csv",
+      "path": "Bearing1_3/3.csv",
+      "sha256": "588669d70176ec3936e3658d7a755af6ecd32048414ddd128ee4ee29347e7a93",
+      "bytes": 1340298
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 4,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/4.csv",
+      "path": "Bearing1_3/4.csv",
+      "sha256": "b3583e49515f9aa02ee16805d4e5669c9f5303c66ad5b37aa13bf930e4ba4c95",
+      "bytes": 1339851
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 5,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/5.csv",
+      "path": "Bearing1_3/5.csv",
+      "sha256": "1b1576108bea722bb60a17be9b5f4b9417beb240695d17a16c7d042b9352b5c8",
+      "bytes": 1339527
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 6,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/6.csv",
+      "path": "Bearing1_3/6.csv",
+      "sha256": "6a8e3eb586ab8289eb2a235fafc79e415d0ea54e6f86a200cdc26b34d3e3d915",
+      "bytes": 1339864
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 7,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/7.csv",
+      "path": "Bearing1_3/7.csv",
+      "sha256": "68023a0311f5c3854f7475cc24a5f23f5bb19ce078ae522fd06d2e3ea1cacc46",
+      "bytes": 1339021
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 8,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/8.csv",
+      "path": "Bearing1_3/8.csv",
+      "sha256": "a68bc54cbbff3671faa362aa81efa97316a9461381a90d1e3bf61695f6ec71ed",
+      "bytes": 1339225
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 9,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/9.csv",
+      "path": "Bearing1_3/9.csv",
+      "sha256": "831ee49e07323b6490c5433eacae5171665cc588436c3f38e0acb4a08c6dd480",
+      "bytes": 1339293
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 10,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/10.csv",
+      "path": "Bearing1_3/10.csv",
+      "sha256": "af3e6f66e04cfc137ebd57778b80f50e2ee18b316fd966b574c4f136fbc4035a",
+      "bytes": 1338986
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 11,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/11.csv",
+      "path": "Bearing1_3/11.csv",
+      "sha256": "3628938a4ab1a8ffca721adaf635d99edaf040af93c98f01f2eb59caee4a5069",
+      "bytes": 1339759
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 12,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/12.csv",
+      "path": "Bearing1_3/12.csv",
+      "sha256": "d0a459b3cc198f85e71645bdff6567ca7862705676a76d29b10d60963189a874",
+      "bytes": 1338482
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 13,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/13.csv",
+      "path": "Bearing1_3/13.csv",
+      "sha256": "1046310d738b78950fa3cc45752d921ca42bbe392663a74896d593cfed5be938",
+      "bytes": 1337646
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 14,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/14.csv",
+      "path": "Bearing1_3/14.csv",
+      "sha256": "0ea48709b130998070be501d4f2ae1b0fcd71e96c3540c76d6635bd74a01b3e4",
+      "bytes": 1338737
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 15,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/15.csv",
+      "path": "Bearing1_3/15.csv",
+      "sha256": "6c754b2841b6f6ddd32d9f3a0121b90c7a58db38005284e12e7e158c73766f44",
+      "bytes": 1339680
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 16,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/16.csv",
+      "path": "Bearing1_3/16.csv",
+      "sha256": "fa6d63189b34ae47ebd7399e40d5f49bf221dda656c70f076cf4954970c81bf4",
+      "bytes": 1338936
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 17,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/17.csv",
+      "path": "Bearing1_3/17.csv",
+      "sha256": "228a9966633f3a36cadf701db8283af1db3b1a74a1801f1739e8e6714ae390ac",
+      "bytes": 1338737
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 18,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/18.csv",
+      "path": "Bearing1_3/18.csv",
+      "sha256": "9c18e238a45d12e5d534517e5147d4a8b5be9b77ad30a2fed8b9913c080faae9",
+      "bytes": 1339162
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 19,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/19.csv",
+      "path": "Bearing1_3/19.csv",
+      "sha256": "26e880ac249c6f42085d76a4185339d265d56b699ad9fdd7ce264ca631ad2a93",
+      "bytes": 1337271
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 20,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/20.csv",
+      "path": "Bearing1_3/20.csv",
+      "sha256": "1fe6e924865df2289b3df6aeb8a058217c4e72cd5e4161bcb8992c96fa54a282",
+      "bytes": 1339159
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 21,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/21.csv",
+      "path": "Bearing1_3/21.csv",
+      "sha256": "cb1ae9f1e5ae8cf6ca16fef66e58423c6313f1dc490c2f5fd2a0fb5588682360",
+      "bytes": 1336683
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 22,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/22.csv",
+      "path": "Bearing1_3/22.csv",
+      "sha256": "f3d57bce13d823f16cb9269b43cdbd375731cf9a949b9460d3f07f0c5dc53caf",
+      "bytes": 1337816
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 23,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/23.csv",
+      "path": "Bearing1_3/23.csv",
+      "sha256": "91668a30805eb2745c43419415252382cefa050f1fbf90b8f683afce46f0c1dc",
+      "bytes": 1338658
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 24,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/24.csv",
+      "path": "Bearing1_3/24.csv",
+      "sha256": "62674ee9f3abc1de4a895a9578a904d790d6ae42344c8fae43725e02b006125e",
+      "bytes": 1337663
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 25,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/25.csv",
+      "path": "Bearing1_3/25.csv",
+      "sha256": "7c44efe899e625b7f7fabed2b4e088b0da827a15168fe60520beacfefabdf998",
+      "bytes": 1338223
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 26,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/26.csv",
+      "path": "Bearing1_3/26.csv",
+      "sha256": "3dad34410c0709763e2bb56a4b9a3d75379773637ba2427d0705e79e2572ee04",
+      "bytes": 1339206
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 27,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/27.csv",
+      "path": "Bearing1_3/27.csv",
+      "sha256": "85f6627bdb3b197a6ac36277c5c76c1871d702305d57fa699f187a788999b4ad",
+      "bytes": 1338717
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 28,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/28.csv",
+      "path": "Bearing1_3/28.csv",
+      "sha256": "e03a425a6c7376092b19f9f9a63e4574194ebbd7dfacbbc55d45c4c88e01264a",
+      "bytes": 1337413
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 29,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/29.csv",
+      "path": "Bearing1_3/29.csv",
+      "sha256": "64c99ed9bc4ab36ed92e5bc1fa125db691dc8dd4dd991b6010b6a66a9709ab63",
+      "bytes": 1337868
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 30,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/30.csv",
+      "path": "Bearing1_3/30.csv",
+      "sha256": "04090cae184f6ce70997593d42e3fb5d2595477d6560cdc738f84e273b2dfca8",
+      "bytes": 1338119
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 31,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/31.csv",
+      "path": "Bearing1_3/31.csv",
+      "sha256": "cbfc2d3f924e80d9fd3b2ceedc01de45ec3337e396587568a56341b7bfca31be",
+      "bytes": 1338158
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 32,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/32.csv",
+      "path": "Bearing1_3/32.csv",
+      "sha256": "8a1de178d03e076e39e6c23dbb956e6dba1c7b82775e71959f651b1c429b4f6d",
+      "bytes": 1337356
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 33,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/33.csv",
+      "path": "Bearing1_3/33.csv",
+      "sha256": "4ebc68d59ba12c0c08a7b0848dbed4959b818cd4d3b4f60847c869aaf194c950",
+      "bytes": 1338403
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 34,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/34.csv",
+      "path": "Bearing1_3/34.csv",
+      "sha256": "b53481844a701630a714abb07ecf1aa145152869a3b339260dd9fc4b26c4f4c7",
+      "bytes": 1337714
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 35,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/35.csv",
+      "path": "Bearing1_3/35.csv",
+      "sha256": "2003cc171ab103595cc721b9a967365328fdf34db82d0ea00f95ddaaa93a9042",
+      "bytes": 1339077
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 36,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/36.csv",
+      "path": "Bearing1_3/36.csv",
+      "sha256": "d64e0bec63f3a26cdc750adff9b40cf0a27c18fede40af368293f7c9c6f08486",
+      "bytes": 1337937
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 37,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/37.csv",
+      "path": "Bearing1_3/37.csv",
+      "sha256": "921cd1dcd7af367ec06c66bb97d1de4927168943df3c7a615efb37a12ccaf3bb",
+      "bytes": 1338594
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 38,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/38.csv",
+      "path": "Bearing1_3/38.csv",
+      "sha256": "476e08108e227040cfd4a91e917bce9d05f1e00ae72b90451d71be985779a7c1",
+      "bytes": 1339391
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 39,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/39.csv",
+      "path": "Bearing1_3/39.csv",
+      "sha256": "ac11d42314a6545452c8825395c2f38c3c3b05687547cc6ac7e92d0bda18ac27",
+      "bytes": 1338215
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 40,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/40.csv",
+      "path": "Bearing1_3/40.csv",
+      "sha256": "d2d19e20811923421dc39eb5919c350cdec9501002bc3a616f97b5fdbc78f1c9",
+      "bytes": 1338514
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 41,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/41.csv",
+      "path": "Bearing1_3/41.csv",
+      "sha256": "3e5e014f3652d2b45ddeb4a9cd14434ff7922362a3a277a815e185ef57654cc4",
+      "bytes": 1338134
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 42,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/42.csv",
+      "path": "Bearing1_3/42.csv",
+      "sha256": "43d842fd70e904da9e9c230d3f57b90440730793eaaa11f58acffa78beb686ee",
+      "bytes": 1338563
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 43,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/43.csv",
+      "path": "Bearing1_3/43.csv",
+      "sha256": "8b8762802d17519f1b621c79acee2a0f7ae2e0c3fa40675483ecf764295341ed",
+      "bytes": 1336766
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 44,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/44.csv",
+      "path": "Bearing1_3/44.csv",
+      "sha256": "418091e6d5198ae27e2fe8cf8b564adf18357d6757144516bf99271f3bb90441",
+      "bytes": 1338477
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 45,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/45.csv",
+      "path": "Bearing1_3/45.csv",
+      "sha256": "7c60bc8213d55a7848b9f8a9602fd42788fc6a01f395bb6a16a0edee829b202d",
+      "bytes": 1338136
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 46,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/46.csv",
+      "path": "Bearing1_3/46.csv",
+      "sha256": "b1d506cf5fca7e36f92adb8c56dfff4fbccbf0f8ee0b5bf44d2b65ba43584df4",
+      "bytes": 1338278
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 47,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/47.csv",
+      "path": "Bearing1_3/47.csv",
+      "sha256": "d0c530cc273b69f82d9f7068db96d2600d9abbd4bdc10dd2f0818803f7319064",
+      "bytes": 1338545
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 48,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/48.csv",
+      "path": "Bearing1_3/48.csv",
+      "sha256": "4d66734babd778ef5250582134b2e96ede351a4498e90fab36ca18f2afbed016",
+      "bytes": 1338508
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 49,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/49.csv",
+      "path": "Bearing1_3/49.csv",
+      "sha256": "e11a793c8c7657b67e6b040147941052cbe0085434e9f8f28c80da632c964bcd",
+      "bytes": 1338840
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 50,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/50.csv",
+      "path": "Bearing1_3/50.csv",
+      "sha256": "0b9ebe25e747e8bc3d65751a3bcd4daf489802d23cc5879ba65ed647ad19f60f",
+      "bytes": 1339003
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 51,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/51.csv",
+      "path": "Bearing1_3/51.csv",
+      "sha256": "b36d5674a925cd091407baba1d1951fa93c11bcddd84e711ebdb69c116d6cbaa",
+      "bytes": 1338718
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 52,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/52.csv",
+      "path": "Bearing1_3/52.csv",
+      "sha256": "b1d6f4502cfe5e85086b169fee4d1b5790f215157e618a9df6bf00532652540f",
+      "bytes": 1338963
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 53,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/53.csv",
+      "path": "Bearing1_3/53.csv",
+      "sha256": "c9f02f1342cabe14c1e1bac3f2b22a36666daba8d66b2b561a9abc2a8f561385",
+      "bytes": 1338178
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 54,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/54.csv",
+      "path": "Bearing1_3/54.csv",
+      "sha256": "1810ad6d55bbb3c18fa264ab1bd311e2ecde261634686d5c62b6c872b8a723da",
+      "bytes": 1337960
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 55,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/55.csv",
+      "path": "Bearing1_3/55.csv",
+      "sha256": "6dc7ae6a3f46bc0a159df23e6a4451d0ebc93c9d7816438d992f3216fcb93172",
+      "bytes": 1337924
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 56,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/56.csv",
+      "path": "Bearing1_3/56.csv",
+      "sha256": "b831a2dff143a1bb5c737d1d7edb11c5c517f94131a41e212b7fb9cb9b1fb764",
+      "bytes": 1339058
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 57,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/57.csv",
+      "path": "Bearing1_3/57.csv",
+      "sha256": "266b1464a59a973ab3bacad5a47c7d995e237cb92483e6c8aff2892514c56dff",
+      "bytes": 1339668
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 58,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/58.csv",
+      "path": "Bearing1_3/58.csv",
+      "sha256": "beb0758528b70ab96d1ab84dec00bcdc867840c4dbebf1a8a62c86c5f430773d",
+      "bytes": 1339451
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 59,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/59.csv",
+      "path": "Bearing1_3/59.csv",
+      "sha256": "42d6d459887342412e15ee8c01e03140219be959bd2d1e44afafbc1f781d0d3d",
+      "bytes": 1336844
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 60,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/60.csv",
+      "path": "Bearing1_3/60.csv",
+      "sha256": "a82150a3111656a1a457c3f97ae2ae317b03162e514209ae6dc08e373198cdeb",
+      "bytes": 1334436
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 61,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/61.csv",
+      "path": "Bearing1_3/61.csv",
+      "sha256": "5c8724960ee568ecf0c99fca924f262612a41ffe50fe037dd71b85d320d52b53",
+      "bytes": 1334489
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 62,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/62.csv",
+      "path": "Bearing1_3/62.csv",
+      "sha256": "588707e2cc978e80758aec9b0b55124adeb3595b90c098176f5f80450c5c1f68",
+      "bytes": 1334923
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 63,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/63.csv",
+      "path": "Bearing1_3/63.csv",
+      "sha256": "f2d72de2f8703171d60e184ea5d87e95dc5663bb3592372649186f9226b372b6",
+      "bytes": 1335398
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 64,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/64.csv",
+      "path": "Bearing1_3/64.csv",
+      "sha256": "4ecdb1e7e92e1a47db327748b045f021f93fa6302665d9c25b50d7f1fc874a4f",
+      "bytes": 1335093
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 65,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/65.csv",
+      "path": "Bearing1_3/65.csv",
+      "sha256": "37ff4e82aeab4893e9b158df3ec4ce344ac709a5d1b692057f965f943591ad49",
+      "bytes": 1334538
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 66,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/66.csv",
+      "path": "Bearing1_3/66.csv",
+      "sha256": "180d8429669eebe8ba79b6d0c5f96c5a19c2a458f7dd9fb72b9557997203914d",
+      "bytes": 1335656
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 67,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/67.csv",
+      "path": "Bearing1_3/67.csv",
+      "sha256": "fc51d79b0f1469f4d811785fecae65c907146ab2964c74852e5cee88dd183c78",
+      "bytes": 1334436
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 68,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/68.csv",
+      "path": "Bearing1_3/68.csv",
+      "sha256": "4b33008c3954dbcab9e29ea6ca054ca03223c982f6a8a79a62f382f1c640a4f1",
+      "bytes": 1334616
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 69,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/69.csv",
+      "path": "Bearing1_3/69.csv",
+      "sha256": "e8a866e70f363f3c824ad9c278cdabb6faa2c6cfda94ebb2d9ba6662a3509a45",
+      "bytes": 1334921
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 70,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/70.csv",
+      "path": "Bearing1_3/70.csv",
+      "sha256": "2e729adaea061ff2e840f3d4fba86ac2e509064c887417258b4d52b7d22f603a",
+      "bytes": 1333765
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 71,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/71.csv",
+      "path": "Bearing1_3/71.csv",
+      "sha256": "fe80d6015458782ad5b958c9b3d30fd7b56bf2caf2538e95b277aea43f613d12",
+      "bytes": 1333017
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 72,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/72.csv",
+      "path": "Bearing1_3/72.csv",
+      "sha256": "8ad56515d671abe5f546ea561cfe01267a8dad35a0d075c7bfd4254983640c2f",
+      "bytes": 1331301
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 73,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/73.csv",
+      "path": "Bearing1_3/73.csv",
+      "sha256": "587f62fbd78f294373ffb83251d2f5e75def290a322dda93d9191c87073643e6",
+      "bytes": 1330873
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 74,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/74.csv",
+      "path": "Bearing1_3/74.csv",
+      "sha256": "217fcb92f2c47644d283587cddee390e62386e3b0c986a4145a425347791101f",
+      "bytes": 1330368
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 75,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/75.csv",
+      "path": "Bearing1_3/75.csv",
+      "sha256": "53213a5584d6ad2eeed839dc94c6e3c2e3a6a2fac8615069e2d74fdeadd49bee",
+      "bytes": 1330024
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 76,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/76.csv",
+      "path": "Bearing1_3/76.csv",
+      "sha256": "fe94e8091f5158d867f1b6bf9c18e89febf9e9c9c041b0bf7c3b36a89c741233",
+      "bytes": 1329160
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 77,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/77.csv",
+      "path": "Bearing1_3/77.csv",
+      "sha256": "c431b399a1512eee1b97b646d9a71e05f5595e12d352cb3d8543d81010047cfc",
+      "bytes": 1327835
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 78,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/78.csv",
+      "path": "Bearing1_3/78.csv",
+      "sha256": "6942999027719ecdf6807eb0399bf963f2e1eec3cd2a101780a767a36fa9ac70",
+      "bytes": 1328916
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 79,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/79.csv",
+      "path": "Bearing1_3/79.csv",
+      "sha256": "1b136c7c628d32819dc24a6e1e966dfdccabc239c2450e425967a0eae6f3c878",
+      "bytes": 1328515
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 80,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/80.csv",
+      "path": "Bearing1_3/80.csv",
+      "sha256": "e427bb17651b32016af86e5677fb034a5d7473339fab553f2654ecb61c95512a",
+      "bytes": 1329005
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 81,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/81.csv",
+      "path": "Bearing1_3/81.csv",
+      "sha256": "75a6018d2d1e6cb997eb954a9632ed9f4536649962cf5262794f5f44c3a366ba",
+      "bytes": 1328060
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 82,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/82.csv",
+      "path": "Bearing1_3/82.csv",
+      "sha256": "35abefbd76c61e9134225e9a68a3a375a6ec60d4a234e2c3d4146f6985e8e9a5",
+      "bytes": 1327374
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 83,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/83.csv",
+      "path": "Bearing1_3/83.csv",
+      "sha256": "c073aac73ce2d10c1b5a0d5f1d886c2bcf47b6e044a841b64f6f61b5b42f9a67",
+      "bytes": 1328670
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 84,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/84.csv",
+      "path": "Bearing1_3/84.csv",
+      "sha256": "a5e19384f9142c3b90951df4f34226ef1df75d3f762c97140c687f3fe64b7fb3",
+      "bytes": 1327958
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 85,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/85.csv",
+      "path": "Bearing1_3/85.csv",
+      "sha256": "c3305965006fbe2bd0d96269711a28a642fc5cb882aee8a3a193d19609bb16b7",
+      "bytes": 1327469
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 86,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/86.csv",
+      "path": "Bearing1_3/86.csv",
+      "sha256": "0daeefe426282642a5e6176856348659b5ba0cd434412aabd4e508b108e95391",
+      "bytes": 1327076
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 87,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/87.csv",
+      "path": "Bearing1_3/87.csv",
+      "sha256": "5cfae115a1ed23f277d017f39681f6cc63781e906916e4af93f6d45034fa0404",
+      "bytes": 1327471
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 88,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/88.csv",
+      "path": "Bearing1_3/88.csv",
+      "sha256": "265256f4d6c6b9ac373cb804850e5346de886fb0292bcd412318f3ec097939cf",
+      "bytes": 1327115
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 89,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/89.csv",
+      "path": "Bearing1_3/89.csv",
+      "sha256": "820ec4f5393bff1b6f8516adfdd1e8b83223071c8fdf7cc7e1c2e83b6142dd38",
+      "bytes": 1327341
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 90,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/90.csv",
+      "path": "Bearing1_3/90.csv",
+      "sha256": "196e2c549cff2232d373ad18dbf2fe7346d190d26c2fc0d3b567872ff6787a3e",
+      "bytes": 1325428
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 91,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/91.csv",
+      "path": "Bearing1_3/91.csv",
+      "sha256": "bd484b00730791ddecbda46208ed7aa6ee251cc5fc0dac05024ee1d7acea7185",
+      "bytes": 1325409
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 92,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/92.csv",
+      "path": "Bearing1_3/92.csv",
+      "sha256": "352390371336bad1f97a1463e2a16cf9799d5b997d97cbc7a6830f9fcacffb66",
+      "bytes": 1324945
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 93,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/93.csv",
+      "path": "Bearing1_3/93.csv",
+      "sha256": "4a72d1c3b7b2155cb1c461e71e9d8d17a32e6e08ba63f7cb9723568305f5df56",
+      "bytes": 1324560
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 94,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/94.csv",
+      "path": "Bearing1_3/94.csv",
+      "sha256": "9cad5db23fb44173427e2b995cbb0b23aad1c57ff549161e5231d5b60a45424e",
+      "bytes": 1323976
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 95,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/95.csv",
+      "path": "Bearing1_3/95.csv",
+      "sha256": "f2dc7ba27652ce9768dfed0e0feae499cb97182a4a3c3ee7c45b598b792fb3f3",
+      "bytes": 1323560
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 96,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/96.csv",
+      "path": "Bearing1_3/96.csv",
+      "sha256": "d5f50605c3ab2bbbf16f06164be2e493f9e14831359176816c3e154b2b782ac4",
+      "bytes": 1323493
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 97,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/97.csv",
+      "path": "Bearing1_3/97.csv",
+      "sha256": "eeeef196d8bc510d583fe4dbd039fce96de9624d3e0e15c256e1d79f4d2aead3",
+      "bytes": 1322677
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 98,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/98.csv",
+      "path": "Bearing1_3/98.csv",
+      "sha256": "9163a75a51c97f03a39c4a85da85b5d584f66790d8565793b7f2bcb8fa9f73fd",
+      "bytes": 1322529
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 99,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/99.csv",
+      "path": "Bearing1_3/99.csv",
+      "sha256": "61d264c8f6264f6b96f437d464e13caba674385e12a1daa777a2a270cf318ad8",
+      "bytes": 1322942
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 100,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/100.csv",
+      "path": "Bearing1_3/100.csv",
+      "sha256": "4b8627a28c16cfe0d71780793168844ac1f892ad8166dd975d31dab2cd383172",
+      "bytes": 1320873
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 101,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/101.csv",
+      "path": "Bearing1_3/101.csv",
+      "sha256": "d9b63c062e68ce9aee44c675e72d3af1eeae5b502be078de95c3f2b3dcc1c6ae",
+      "bytes": 1322359
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 102,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/102.csv",
+      "path": "Bearing1_3/102.csv",
+      "sha256": "61601e9127dfdbff4300b41237e15dd9f9eff152db93d225541e72419d7c83a6",
+      "bytes": 1320275
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 103,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/103.csv",
+      "path": "Bearing1_3/103.csv",
+      "sha256": "35e59fcd58be732b8edf9da13299f66d5d6cc5df6bc10775abb95414382b1a7e",
+      "bytes": 1320626
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 104,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/104.csv",
+      "path": "Bearing1_3/104.csv",
+      "sha256": "2069daa1b5a042c5c0783d7a5e8b8452e12871213aa4ca90796a61eea5bcef94",
+      "bytes": 1320131
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 105,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/105.csv",
+      "path": "Bearing1_3/105.csv",
+      "sha256": "d95628dfa0f8899192dedfe0e8704292cc06f268321bd542d499335a8c7d2632",
+      "bytes": 1318324
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 106,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/106.csv",
+      "path": "Bearing1_3/106.csv",
+      "sha256": "e6add4fbc2c3567ce66e53e272a9d7e0cbeece8e93e3d3116a98d587697b53a3",
+      "bytes": 1318394
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 107,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/107.csv",
+      "path": "Bearing1_3/107.csv",
+      "sha256": "d795a91a9a618820794e26e1175c77a792d690e47c90a04387a3b1d239203078",
+      "bytes": 1317006
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 108,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/108.csv",
+      "path": "Bearing1_3/108.csv",
+      "sha256": "26123ac4805411a251112178d895539ce699f9955bf806e1c5bf94ccc2d61a39",
+      "bytes": 1316456
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 109,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/109.csv",
+      "path": "Bearing1_3/109.csv",
+      "sha256": "e628c7d5654669e98e5b980c7e2a98aa389441cddf5647a630db92d0d72f1344",
+      "bytes": 1315966
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 110,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/110.csv",
+      "path": "Bearing1_3/110.csv",
+      "sha256": "b64f1c9b086ba9402ab5ad2830fc7e9abb9a9fb502b6ec782d5419ea7cfa9902",
+      "bytes": 1315595
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 111,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/111.csv",
+      "path": "Bearing1_3/111.csv",
+      "sha256": "89a20d35ded13bdab606ec0fbc65d0aef4a9df5e51e35467542c32d049c001ed",
+      "bytes": 1315373
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 112,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/112.csv",
+      "path": "Bearing1_3/112.csv",
+      "sha256": "bd6ac6a2d7afcaffae85c3f4c779301d76d4d5d7d2fd61c83cc1c4c5fdfdee2f",
+      "bytes": 1314471
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 113,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/113.csv",
+      "path": "Bearing1_3/113.csv",
+      "sha256": "9f4039c7902b57d9ea2a46c357dd80aaaa0d8471f2bbec4d333858b6fde235ec",
+      "bytes": 1313884
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 114,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/114.csv",
+      "path": "Bearing1_3/114.csv",
+      "sha256": "1ea3afb8e69a79f1a151815bff7bd1bad1e241451870d4cf19399714446ca8c8",
+      "bytes": 1313042
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 115,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/115.csv",
+      "path": "Bearing1_3/115.csv",
+      "sha256": "f3d503a02c019d371b7f1b7ea0dcdb8d4003396a7ed76b836e046e9bb8133db7",
+      "bytes": 1313669
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 116,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/116.csv",
+      "path": "Bearing1_3/116.csv",
+      "sha256": "32655a68b9dafb4b0cb575620f29160b67f670e2f4c52a5baf08df58723ee8ce",
+      "bytes": 1312176
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 117,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/117.csv",
+      "path": "Bearing1_3/117.csv",
+      "sha256": "e168b83a8d34b88473b307d15323919d5f8a53002c4f03883282f024db377c88",
+      "bytes": 1311758
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 118,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/118.csv",
+      "path": "Bearing1_3/118.csv",
+      "sha256": "1484fa290cdbacacb6aff95edf5f451adaf63d2b2442870952c0acd8132b1b9a",
+      "bytes": 1311825
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 119,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/119.csv",
+      "path": "Bearing1_3/119.csv",
+      "sha256": "2f069f60a677cbd4a03e3addaec2447b46b2fd1587ffca99405749e5845cbefb",
+      "bytes": 1310376
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 120,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/120.csv",
+      "path": "Bearing1_3/120.csv",
+      "sha256": "6eff9f26014eab3393430f7edad5da9e16355a53c6a4f5d77fc66b4cdba5ba7a",
+      "bytes": 1311463
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 121,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/121.csv",
+      "path": "Bearing1_3/121.csv",
+      "sha256": "53f7133e9ebf87bbb00f6d28e07e13af336d4215ad50c619e73b1e79ac4cdfb1",
+      "bytes": 1310086
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 122,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/122.csv",
+      "path": "Bearing1_3/122.csv",
+      "sha256": "cd0e1037c7e7800875927767c3c4b68e7fd022f3dabd5cfe17485939f8faf9c6",
+      "bytes": 1308873
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 123,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/123.csv",
+      "path": "Bearing1_3/123.csv",
+      "sha256": "2aa3d51750bcd7f9c7f6af184b958ab69b1806ec93d54da76959180c0ff9f409",
+      "bytes": 1309884
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 124,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/124.csv",
+      "path": "Bearing1_3/124.csv",
+      "sha256": "3a64498e9d0b9795a99b80be044c1e546bb4b3b691f544aae72229b4f5396578",
+      "bytes": 1308793
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 125,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/125.csv",
+      "path": "Bearing1_3/125.csv",
+      "sha256": "d9683077c0a1d6c88df4cd230d05e23d8e0a8044af3a193d4a47e196115b376e",
+      "bytes": 1307702
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 126,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/126.csv",
+      "path": "Bearing1_3/126.csv",
+      "sha256": "8b3d4666c3b90388dde3401fedd4524ba174389ba2ec92c541900d73a5a91674",
+      "bytes": 1307913
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 127,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/127.csv",
+      "path": "Bearing1_3/127.csv",
+      "sha256": "fad4b5e220af8826e4e5cec651564e69120aad16a152302e83f56ffd3c3097d2",
+      "bytes": 1308098
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 128,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/128.csv",
+      "path": "Bearing1_3/128.csv",
+      "sha256": "d0ed39858e03ffa5502975498513f4097780202bdd29473595172022715b5d45",
+      "bytes": 1308368
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 129,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/129.csv",
+      "path": "Bearing1_3/129.csv",
+      "sha256": "03515bd4b94e41409f55a40d643aa78807f0c0d309415f26d6fffb3ed921388a",
+      "bytes": 1307797
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 130,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/130.csv",
+      "path": "Bearing1_3/130.csv",
+      "sha256": "ad5e7394a0fcf7bde344d87584e20ce3f1997252b9e68eb721ec09f84a5cc19c",
+      "bytes": 1307376
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 131,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/131.csv",
+      "path": "Bearing1_3/131.csv",
+      "sha256": "514da8b7cbc2db00360ba954c9ce52dfaa1262be92c8fcc797dcab42bf49697d",
+      "bytes": 1308495
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 132,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/132.csv",
+      "path": "Bearing1_3/132.csv",
+      "sha256": "198f420fdbed81614e08a13a8bbba84b7c973e0041f2d1e2047bc992a540cde7",
+      "bytes": 1307407
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 133,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/133.csv",
+      "path": "Bearing1_3/133.csv",
+      "sha256": "b784c50241873c386b902f65ed1baba637c3cfee0142a873ee06e619f3baa81e",
+      "bytes": 1302392
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 134,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/134.csv",
+      "path": "Bearing1_3/134.csv",
+      "sha256": "2a23cfffd520cdb383cb5d8b8fafe0e0ab29d582127fe8b735ea5c138f299ef8",
+      "bytes": 1300885
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 135,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/135.csv",
+      "path": "Bearing1_3/135.csv",
+      "sha256": "e149177b8ae48cfe33ab0ddabfa4563c22947a88d250372b37a1d8705426991e",
+      "bytes": 1301052
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 136,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/136.csv",
+      "path": "Bearing1_3/136.csv",
+      "sha256": "aa02694d2af4a3955d912e8ffc37d82d1c5feef7251a290b8c27ce6b8c16fc6f",
+      "bytes": 1301032
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 137,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/137.csv",
+      "path": "Bearing1_3/137.csv",
+      "sha256": "35ceab67a1d8e2400ef72d012fa158a92bc9f171ba439f0f3be925c0c6bbbc6f",
+      "bytes": 1300862
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 138,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/138.csv",
+      "path": "Bearing1_3/138.csv",
+      "sha256": "4c3b303e669a6fc4648842f6c2912bf161c72591e612756e3eafa4d2e71bf03d",
+      "bytes": 1301332
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 139,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/139.csv",
+      "path": "Bearing1_3/139.csv",
+      "sha256": "b1e72967e2fb364fddafffb0e073ac04ce55e84aaa64a2a2d48e8b62fae140da",
+      "bytes": 1300101
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 140,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/140.csv",
+      "path": "Bearing1_3/140.csv",
+      "sha256": "844c81d226a5276cd54bd4bd74f3d254beaa16c02a408c958aadfb39ea658a91",
+      "bytes": 1299716
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 141,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/141.csv",
+      "path": "Bearing1_3/141.csv",
+      "sha256": "fcccf0f6ea80634a9f3c09a57216038561f19ed8836c4a2e7a1200306524b3f8",
+      "bytes": 1300209
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 142,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/142.csv",
+      "path": "Bearing1_3/142.csv",
+      "sha256": "1f8778ad49ffb0e6080193e42cc8f6b0dd10bff182da83103c930f05352cd6a7",
+      "bytes": 1300552
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 143,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/143.csv",
+      "path": "Bearing1_3/143.csv",
+      "sha256": "fcad3d338c16c0bd0e7b46b8d84976874fbc330cf0b18569327292cd1f5abcc8",
+      "bytes": 1300176
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 144,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/144.csv",
+      "path": "Bearing1_3/144.csv",
+      "sha256": "08e7dfba2e3a2787894afe1054d841d088b9e584aa248b0e80dd0a4c38279802",
+      "bytes": 1301138
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 145,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/145.csv",
+      "path": "Bearing1_3/145.csv",
+      "sha256": "582e5a9dfea18bea882389b23147d2500b3adf809fe21a5c70b373931acc42b9",
+      "bytes": 1298877
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 146,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/146.csv",
+      "path": "Bearing1_3/146.csv",
+      "sha256": "eda99e7cc90b6ee40105781cfc4826aa8061d1cd1f5669fa93c71744ccb20982",
+      "bytes": 1296507
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 147,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/147.csv",
+      "path": "Bearing1_3/147.csv",
+      "sha256": "cc2b16ba97f992d54cb25913281cf0e12dadf4a98166c9fac491e3ea5c3c16b3",
+      "bytes": 1296455
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 148,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/148.csv",
+      "path": "Bearing1_3/148.csv",
+      "sha256": "82dd4341dbf2ae266441e12d7e6f75bfbb9cb7424c1ec694c59925d1c67c144c",
+      "bytes": 1296206
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 149,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/149.csv",
+      "path": "Bearing1_3/149.csv",
+      "sha256": "4c664ea77e10390a60ea22693ddc54bf70702f3d4684cf0b37130a2f4846cbc4",
+      "bytes": 1295744
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 150,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/150.csv",
+      "path": "Bearing1_3/150.csv",
+      "sha256": "fb404be1540fc257c7b75554d34b0653b21f8c9cc94119ad39fbba957e2ee644",
+      "bytes": 1277496
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 151,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/151.csv",
+      "path": "Bearing1_3/151.csv",
+      "sha256": "ec00cba24c7520c25868c5502db1401745c732d3d35be2153bef4eb5bbb58c57",
+      "bytes": 1277058
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 152,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/152.csv",
+      "path": "Bearing1_3/152.csv",
+      "sha256": "3929bfc829a9e513176b6cad50aa191b1e75b5ef2cf41240e68acf0a5800ad72",
+      "bytes": 1276517
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 153,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/153.csv",
+      "path": "Bearing1_3/153.csv",
+      "sha256": "bef3dc8e339bbef7ce49b0ea9690293e2799e4cc612655c14d45f36478864405",
+      "bytes": 1276547
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 154,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/154.csv",
+      "path": "Bearing1_3/154.csv",
+      "sha256": "cb9f97a4a529ac3861bc323582b1989c1b3355ee5c1e615e2bb88c633fa40a57",
+      "bytes": 1277358
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 155,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/155.csv",
+      "path": "Bearing1_3/155.csv",
+      "sha256": "b5b90d9fb63b5322855daffaa470a60f1adf36e049643485d7a015c8b3be6e05",
+      "bytes": 1278137
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 156,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/156.csv",
+      "path": "Bearing1_3/156.csv",
+      "sha256": "55f39a6ebfd73468d91a3b4a22b2a4a1b25e99e0806e2ddcd5153fb256b5198c",
+      "bytes": 1276474
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 157,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/157.csv",
+      "path": "Bearing1_3/157.csv",
+      "sha256": "9f75a01501935e2153718329f944dc78d7938f7683c9552daef58ddef859d8cd",
+      "bytes": 1276994
+    },
+    {
+      "bearing_id": "Bearing1_3",
+      "capture_index": 158,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_3/158.csv",
+      "path": "Bearing1_3/158.csv",
+      "sha256": "a7ece8fc26da2f13a0445049de3afd65af3e61316ef48243731d5289736783a9",
+      "bytes": 1277181
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 1,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/1.csv",
+      "path": "Bearing1_4/1.csv",
+      "sha256": "100f4e46b7848bc48fdab9941d6fee23b601781a44af263dcdb315b0b032746b",
+      "bytes": 1338115
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 2,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/2.csv",
+      "path": "Bearing1_4/2.csv",
+      "sha256": "515de0ea553155b36e6e11905c5375cc4ca44427e00a11259fe3b1fb07bb14d4",
+      "bytes": 1338730
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 3,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/3.csv",
+      "path": "Bearing1_4/3.csv",
+      "sha256": "a0fd81c73ca6ee93847c84ae9d506d46491beee918496a00c669ca4726f8d797",
+      "bytes": 1339358
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 4,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/4.csv",
+      "path": "Bearing1_4/4.csv",
+      "sha256": "5a84b08d95ca6ed24081a0d10be6b4fa90677255e9c4a5d2de3beaeb89d480a5",
+      "bytes": 1338631
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 5,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/5.csv",
+      "path": "Bearing1_4/5.csv",
+      "sha256": "6be4610e76ae1c39489f4f9daeb000c2b1fcdab87286b5de2e6aaa76cf1ef0ef",
+      "bytes": 1339501
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 6,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/6.csv",
+      "path": "Bearing1_4/6.csv",
+      "sha256": "c5e17f998a5d67daedb130c6b062a0ad0de5918c0412c525ffaff1bb8e43bd0c",
+      "bytes": 1339324
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 7,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/7.csv",
+      "path": "Bearing1_4/7.csv",
+      "sha256": "1d243df55e3d89407083cacaa9c83cc846518f5b855cd00fcd4e60efd9c47ad8",
+      "bytes": 1340407
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 8,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/8.csv",
+      "path": "Bearing1_4/8.csv",
+      "sha256": "c851bbf9471155ed6a1ff62f1aed778d86e36fe6966148a4393bdf29f7d1eb24",
+      "bytes": 1338988
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 9,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/9.csv",
+      "path": "Bearing1_4/9.csv",
+      "sha256": "d70292f88b30af2a1db17e15f775bb548451bd01fc2d54dcd49529f4f4a12f7d",
+      "bytes": 1342250
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 10,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/10.csv",
+      "path": "Bearing1_4/10.csv",
+      "sha256": "deba03e3e5ef6db44a2cb499c82a95b15d9dad68007efd01901816f52bdd711c",
+      "bytes": 1341595
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 11,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/11.csv",
+      "path": "Bearing1_4/11.csv",
+      "sha256": "827aadfa7e95a7a608f8ade57bcd24a4e5b04d9e4a74e5b76a29b71af1598054",
+      "bytes": 1341902
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 12,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/12.csv",
+      "path": "Bearing1_4/12.csv",
+      "sha256": "e2147450ddc167e431b1b8025606e2bf2b8e142421b0d1e2a9e2dba7e53ea031",
+      "bytes": 1343122
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 13,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/13.csv",
+      "path": "Bearing1_4/13.csv",
+      "sha256": "d5e42c05ef5fe881f6348db5f52415d7a12d71f34ea32ed814a4b5217ecc05d0",
+      "bytes": 1345432
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 14,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/14.csv",
+      "path": "Bearing1_4/14.csv",
+      "sha256": "8b185de88ae35c35292ad7e4cdd84ec0c7b6b010356aef80ba5f2a608d10f2c7",
+      "bytes": 1339658
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 15,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/15.csv",
+      "path": "Bearing1_4/15.csv",
+      "sha256": "fa80bc0022cdd35cac236199bfd947ebe65b96e48cdffa43eac89ae14025e356",
+      "bytes": 1341823
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 16,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/16.csv",
+      "path": "Bearing1_4/16.csv",
+      "sha256": "6bec35a235245ddc71c42db0613a5365b2f8377a0060b075ae0d2cc0414798db",
+      "bytes": 1342134
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 17,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/17.csv",
+      "path": "Bearing1_4/17.csv",
+      "sha256": "ce7c9706908fbda8de9692e31546911311a0ca2a6c7dd4254256155318bba3fb",
+      "bytes": 1341741
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 18,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/18.csv",
+      "path": "Bearing1_4/18.csv",
+      "sha256": "a0ce04921f3ddab35763bde0d1cae2f5fe8a08f30b8137b4dbdd597f5462f6a8",
+      "bytes": 1344362
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 19,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/19.csv",
+      "path": "Bearing1_4/19.csv",
+      "sha256": "9e9f7f61d9c30885191dd8e520ff03944379313d6343bfb729c258219821f945",
+      "bytes": 1344250
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 20,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/20.csv",
+      "path": "Bearing1_4/20.csv",
+      "sha256": "ecc4753e91cab4970bc529d4a533d878cebb20315a44d7084b78876fd1f63409",
+      "bytes": 1345181
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 21,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/21.csv",
+      "path": "Bearing1_4/21.csv",
+      "sha256": "859b7a1fab8c5efd2253367198c1f8d229b21e59df966c92341554e2ac6b542c",
+      "bytes": 1342181
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 22,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/22.csv",
+      "path": "Bearing1_4/22.csv",
+      "sha256": "d8a3b56d116242b0dba4a866f45bbfed842732d2ac51af05a3acf5fa45689a36",
+      "bytes": 1339609
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 23,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/23.csv",
+      "path": "Bearing1_4/23.csv",
+      "sha256": "bae539bca00456ba682ced58618123b35f662fb3f74604dff3f62a8ee1745886",
+      "bytes": 1345686
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 24,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/24.csv",
+      "path": "Bearing1_4/24.csv",
+      "sha256": "ebec2027b4c97f47d0fa75028ccdcadf6b019a67ef8a884f0aaa4da3d6df12f4",
+      "bytes": 1340625
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 25,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/25.csv",
+      "path": "Bearing1_4/25.csv",
+      "sha256": "02726d8cf18532e4ceb8e3112ea39f2a96b89df3e389fd5803b2024b3859b747",
+      "bytes": 1343347
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 26,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/26.csv",
+      "path": "Bearing1_4/26.csv",
+      "sha256": "5fb208b191e77b69eff33d60fa55698cb08cf5dae5c872d47174a0342c488174",
+      "bytes": 1342537
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 27,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/27.csv",
+      "path": "Bearing1_4/27.csv",
+      "sha256": "c366ed02a3a8c19e69bc727255ea658f4bab38835c56757247cc1ad8cec18876",
+      "bytes": 1342866
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 28,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/28.csv",
+      "path": "Bearing1_4/28.csv",
+      "sha256": "f9515645f9af00078b27e61c2cf5ed8c03fc0b030b6993d55751c4af41fc7d82",
+      "bytes": 1342213
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 29,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/29.csv",
+      "path": "Bearing1_4/29.csv",
+      "sha256": "85946d91f59ea155d5a75348cce7955bf1d77df1c4a9b05386d428621ca4bcb7",
+      "bytes": 1340920
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 30,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/30.csv",
+      "path": "Bearing1_4/30.csv",
+      "sha256": "3f11f297307f71a734e612d304c65e2d61ff182ec0f7cf9c7ccc40aab33af0d3",
+      "bytes": 1342605
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 31,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/31.csv",
+      "path": "Bearing1_4/31.csv",
+      "sha256": "81b7ec62012d54900a9a22952ad7dccc78da12c45eeb5077826d121f22c6936f",
+      "bytes": 1341479
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 32,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/32.csv",
+      "path": "Bearing1_4/32.csv",
+      "sha256": "1f4a20fd3784e235ddc30871602cf659c46e0e23c8c4ca3b343e6d49d9bcebfe",
+      "bytes": 1342338
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 33,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/33.csv",
+      "path": "Bearing1_4/33.csv",
+      "sha256": "d82dad0c1d6461fd2a6cf7f40f299fdeee88c6dbbe8f815a4e85353b542e0e82",
+      "bytes": 1341776
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 34,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/34.csv",
+      "path": "Bearing1_4/34.csv",
+      "sha256": "e7f53ac67e13786b85c0fa8f0b3fdbaf1f8f1530c313bfe1abccbcd1084cebe9",
+      "bytes": 1344759
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 35,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/35.csv",
+      "path": "Bearing1_4/35.csv",
+      "sha256": "259780d21836a70246476a572184fdf77ad7c231e62ea3fb41d94ef380abf659",
+      "bytes": 1346145
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 36,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/36.csv",
+      "path": "Bearing1_4/36.csv",
+      "sha256": "ab7478b8df7ee830b35d9fa0e9a96ac53b30489ab9abaf93343ebce2be435d10",
+      "bytes": 1342409
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 37,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/37.csv",
+      "path": "Bearing1_4/37.csv",
+      "sha256": "4c784503b38bee7e4b5b544ba298060fe245e0dcdf993dcea7593ac6d1e94fcb",
+      "bytes": 1342872
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 38,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/38.csv",
+      "path": "Bearing1_4/38.csv",
+      "sha256": "ed9c971634a58b0dfe4f155d458b2c1b130b6f80779782a80d3f30dc4c53da82",
+      "bytes": 1345858
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 39,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/39.csv",
+      "path": "Bearing1_4/39.csv",
+      "sha256": "4eeb68fa986fa00bad1c48575598bc0f47a3fc179b70486de3e86cfb83a1c520",
+      "bytes": 1338653
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 40,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/40.csv",
+      "path": "Bearing1_4/40.csv",
+      "sha256": "76b1fe9156dcb3307cd471030ae6957092a047174a3bf23f534c8ef7ec2ebccc",
+      "bytes": 1345855
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 41,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/41.csv",
+      "path": "Bearing1_4/41.csv",
+      "sha256": "ddaa9a8c7bad6bf428600eed8416f612226a7dfb12d53a1f645fba18aebc01f0",
+      "bytes": 1341535
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 42,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/42.csv",
+      "path": "Bearing1_4/42.csv",
+      "sha256": "817379c4d10b26ef9ab455e8a91974735dc3e491f49a2ce3c002ccd8965a1869",
+      "bytes": 1342045
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 43,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/43.csv",
+      "path": "Bearing1_4/43.csv",
+      "sha256": "8f95ff5a03818d980baa559042dbd8c570cca1e68962f866c7fd5d661b5ca7fd",
+      "bytes": 1341893
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 44,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/44.csv",
+      "path": "Bearing1_4/44.csv",
+      "sha256": "191804c9d273162dfa061bf92aa8fa1d0b62f4332cfc96fa4850bfef9e9baa87",
+      "bytes": 1346704
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 45,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/45.csv",
+      "path": "Bearing1_4/45.csv",
+      "sha256": "d1060e2a714c666c7704bcf7839dafd5d35417e206a7c45c90c1175fce0d7f93",
+      "bytes": 1347264
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 46,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/46.csv",
+      "path": "Bearing1_4/46.csv",
+      "sha256": "4ca71abb4bcc6f28de835f8ec6656a4d3eb938ef794ea7634db46e0127b0f293",
+      "bytes": 1342423
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 47,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/47.csv",
+      "path": "Bearing1_4/47.csv",
+      "sha256": "b040e345b2ecadcf60879eedf6dc4ac2292ab48f35ab558811ffea830df2fbb8",
+      "bytes": 1348229
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 48,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/48.csv",
+      "path": "Bearing1_4/48.csv",
+      "sha256": "e24d6c39b034993fcdbc225279d2847b4feab0adacf75f3f0f93f7345f74b3e3",
+      "bytes": 1346396
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 49,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/49.csv",
+      "path": "Bearing1_4/49.csv",
+      "sha256": "33a46321ffa0ba72aa96809de7b1263295d4c70f10468ed48657e85abac5848d",
+      "bytes": 1339884
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 50,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/50.csv",
+      "path": "Bearing1_4/50.csv",
+      "sha256": "a9bf2ea1ceb5882a5628a34b5dc728cde04c3e070752d9b96986262261ec4650",
+      "bytes": 1342037
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 51,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/51.csv",
+      "path": "Bearing1_4/51.csv",
+      "sha256": "0723f04df244c511b61c7a60e7a2bc9d3a043bda71b4e7604272b161b65cc799",
+      "bytes": 1339105
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 52,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/52.csv",
+      "path": "Bearing1_4/52.csv",
+      "sha256": "0b406b9d1af79f5ef835caadd626a950483bf0c0d324b7972bc9b30ddb330a8f",
+      "bytes": 1342957
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 53,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/53.csv",
+      "path": "Bearing1_4/53.csv",
+      "sha256": "4d69653646933b730e37d62f5b260af9a26b3d87f015faa89eaacea9cf295d21",
+      "bytes": 1341059
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 54,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/54.csv",
+      "path": "Bearing1_4/54.csv",
+      "sha256": "139b72b1884e9ef26a28303120907d85c8d66f078bf58323837d1b3f8e85bf74",
+      "bytes": 1342136
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 55,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/55.csv",
+      "path": "Bearing1_4/55.csv",
+      "sha256": "12507a4c8cb357d506d55e3447e5f1e880e3fef6ee3ee052a256021a3c9921df",
+      "bytes": 1339586
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 56,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/56.csv",
+      "path": "Bearing1_4/56.csv",
+      "sha256": "8e839f372720a23d7022e2186eea86bf03174947d883b9cbe89efa1c8258213d",
+      "bytes": 1339955
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 57,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/57.csv",
+      "path": "Bearing1_4/57.csv",
+      "sha256": "73c846110a831e7517220968f2bbebceef0a240eb6a4764505b86db07b4cf1e4",
+      "bytes": 1340210
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 58,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/58.csv",
+      "path": "Bearing1_4/58.csv",
+      "sha256": "ac6a2bf275b6db797f3eb032efc3c100e7f89f03b093670175d3cd30298d332e",
+      "bytes": 1341253
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 59,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/59.csv",
+      "path": "Bearing1_4/59.csv",
+      "sha256": "7d161324d6c4eaed8b6d2ca99d0ce6da060238ccbbcb8bbba64ea1f7b31b1cf8",
+      "bytes": 1340095
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 60,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/60.csv",
+      "path": "Bearing1_4/60.csv",
+      "sha256": "ea1f79c5d434213e7a81a95416675220958402f81456d06627e153b779a6f012",
+      "bytes": 1340347
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 61,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/61.csv",
+      "path": "Bearing1_4/61.csv",
+      "sha256": "5c40af64e11294a721ef339483c847a055e907fceb163f3055f92b3eea51e0a8",
+      "bytes": 1339707
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 62,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/62.csv",
+      "path": "Bearing1_4/62.csv",
+      "sha256": "05ad825cd801c21c07d51aa9c6e02003656541c5cd5e026a0521dcd0cc93c017",
+      "bytes": 1340190
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 63,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/63.csv",
+      "path": "Bearing1_4/63.csv",
+      "sha256": "dfd883303093ddfb5642ce775b004eded6b734a9cfda8ea94e445caad295bb9d",
+      "bytes": 1338278
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 64,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/64.csv",
+      "path": "Bearing1_4/64.csv",
+      "sha256": "5a94efeb1ce3792226f5412d429dddc0d1ff7622a599d3394fa6bacf827bb05e",
+      "bytes": 1336641
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 65,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/65.csv",
+      "path": "Bearing1_4/65.csv",
+      "sha256": "4d6e47b23008303678eec7688b4495e960c15672612ec6ab4570adc53a53eea0",
+      "bytes": 1340244
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 66,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/66.csv",
+      "path": "Bearing1_4/66.csv",
+      "sha256": "a6995545087bb20e22f411b8af821075b0326b6d20a74dab08532e14b2568f6c",
+      "bytes": 1341159
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 67,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/67.csv",
+      "path": "Bearing1_4/67.csv",
+      "sha256": "e8a0abf63e887793c490e504b521eb0baaf2f2a1cd461b93a5f0404ce6a40f22",
+      "bytes": 1340641
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 68,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/68.csv",
+      "path": "Bearing1_4/68.csv",
+      "sha256": "0904865719edcd417b9c1cceb06f130a3f555f7597eb3b229676466eedfcf98c",
+      "bytes": 1340833
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 69,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/69.csv",
+      "path": "Bearing1_4/69.csv",
+      "sha256": "b235e4bbf5258a7a77fbcb812b6bb5d0c0e01e45cfcf167220fa4af0924cee27",
+      "bytes": 1340484
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 70,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/70.csv",
+      "path": "Bearing1_4/70.csv",
+      "sha256": "0ff999c17dad71e4bb4b154465f75aaba1db27d4351bb7ed86b8e1f006aa9929",
+      "bytes": 1337255
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 71,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/71.csv",
+      "path": "Bearing1_4/71.csv",
+      "sha256": "b643eb311bb557d211246e8d40123ece85a42d16b5a803976eab2cab2aa9a1c6",
+      "bytes": 1338786
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 72,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/72.csv",
+      "path": "Bearing1_4/72.csv",
+      "sha256": "d10a18bb6cd1a7f50c4101a6e7d70057f4cd56b23ab22bd9eb2d9b1b872d0423",
+      "bytes": 1336918
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 73,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/73.csv",
+      "path": "Bearing1_4/73.csv",
+      "sha256": "2677c1be5729a7b1bb5813d5b64806fbd677f3ee4357e8b169fd75af5a67ffac",
+      "bytes": 1340622
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 74,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/74.csv",
+      "path": "Bearing1_4/74.csv",
+      "sha256": "c3f96ccb5fc1c1a0d9620428b229d7e857f698888f50dd87a136c317d0b9cce8",
+      "bytes": 1340296
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 75,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/75.csv",
+      "path": "Bearing1_4/75.csv",
+      "sha256": "8fd2723be0a85ad0a3d02cea04347a26264e436832efa24cae415174748acc9e",
+      "bytes": 1336982
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 76,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/76.csv",
+      "path": "Bearing1_4/76.csv",
+      "sha256": "ee783f8038b3ac42daf9319307cf4694be6bbf2ef9fb5b38f613e252f6312d86",
+      "bytes": 1339586
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 77,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/77.csv",
+      "path": "Bearing1_4/77.csv",
+      "sha256": "c12c3222096af08cdf79706525b3ced1ace589081e7fa0466c9541bf8ea034f0",
+      "bytes": 1338351
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 78,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/78.csv",
+      "path": "Bearing1_4/78.csv",
+      "sha256": "9a4a342d5cc206337a3caef1a4f65a708f42b352043f8157a05aa8f5d603263c",
+      "bytes": 1337450
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 79,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/79.csv",
+      "path": "Bearing1_4/79.csv",
+      "sha256": "3b31ee48448ca4e0db4d7a009aa75ebfdf453c207fbb4fdd48c21a4a02522ff2",
+      "bytes": 1338093
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 80,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/80.csv",
+      "path": "Bearing1_4/80.csv",
+      "sha256": "db139264b398f16cea98121cca6d62a56efdc838680803d0b55c08b28de341c6",
+      "bytes": 1339524
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 81,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/81.csv",
+      "path": "Bearing1_4/81.csv",
+      "sha256": "b756af86b2c1128c132b7b9961bd440a3f27ad01c610e84613f6b05abfaeb525",
+      "bytes": 1334908
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 82,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/82.csv",
+      "path": "Bearing1_4/82.csv",
+      "sha256": "3d22ec046ec71e7115e9773158c29534e33d484f0df1de010f554efc02698e06",
+      "bytes": 1335074
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 83,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/83.csv",
+      "path": "Bearing1_4/83.csv",
+      "sha256": "87ccb6499db35d88ba13eca77895cd6c5fd29e2f283f7f82b935f72e017cbb37",
+      "bytes": 1332091
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 84,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/84.csv",
+      "path": "Bearing1_4/84.csv",
+      "sha256": "5467ae01f499575f2a21d4fa732a9669b53aff2746a0dda2debf9e8c906525b4",
+      "bytes": 1333303
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 85,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/85.csv",
+      "path": "Bearing1_4/85.csv",
+      "sha256": "a342ce4eb26a6273fe85a79f51a650d448e731e1988302715795861bb80c0472",
+      "bytes": 1335435
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 86,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/86.csv",
+      "path": "Bearing1_4/86.csv",
+      "sha256": "d265be224efeed15d734adae9d23e79241fa1935842bb524249f4adab80aa564",
+      "bytes": 1335992
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 87,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/87.csv",
+      "path": "Bearing1_4/87.csv",
+      "sha256": "1f24eb20ea66bf68ebaa964a60ee552914b92c92e77f57f1ab7c4551683e96de",
+      "bytes": 1335853
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 88,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/88.csv",
+      "path": "Bearing1_4/88.csv",
+      "sha256": "651b1a3ae704726af159ca4847b9a89e4c4d7f5df956296a80ccff286531237c",
+      "bytes": 1335223
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 89,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/89.csv",
+      "path": "Bearing1_4/89.csv",
+      "sha256": "d4fa3f3d66a713601669822cfda2c5524a576fc588e512962ecc0e801fa8c664",
+      "bytes": 1336100
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 90,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/90.csv",
+      "path": "Bearing1_4/90.csv",
+      "sha256": "ebec294372de8b28130d518530efdd50a5bfec85dbd964590bf2baa85dd73af7",
+      "bytes": 1335463
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 91,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/91.csv",
+      "path": "Bearing1_4/91.csv",
+      "sha256": "528bb468a544c7bce158cd086b872fba7a60c227a0c1c661038576d3714d19de",
+      "bytes": 1333996
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 92,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/92.csv",
+      "path": "Bearing1_4/92.csv",
+      "sha256": "2b8ab79727e8bd25cfd649bdf0eac955597c2f14a597fad2abc30531c52148aa",
+      "bytes": 1334921
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 93,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/93.csv",
+      "path": "Bearing1_4/93.csv",
+      "sha256": "223a45c534adbd95cadaf844dd3b1c9768ffd9657e28d47bdfa022aa779b4be4",
+      "bytes": 1337307
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 94,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/94.csv",
+      "path": "Bearing1_4/94.csv",
+      "sha256": "9570027062b8f8f932c01e85c1ec3258d2b48732885c6cadb0b994eee0639f0f",
+      "bytes": 1337739
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 95,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/95.csv",
+      "path": "Bearing1_4/95.csv",
+      "sha256": "e53934a17c9beaf5e0ee9489a98d53cdf48fcf2ae22ded95ee04f8014e853636",
+      "bytes": 1334312
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 96,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/96.csv",
+      "path": "Bearing1_4/96.csv",
+      "sha256": "2d94bf48366a9fd3b00ef323a0662a3b8477c755ee9ff4c248db222cae7f08b9",
+      "bytes": 1334511
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 97,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/97.csv",
+      "path": "Bearing1_4/97.csv",
+      "sha256": "94fcdd174b16097e86ddb52071fd4d50adaf094417874deab1feb00c9d3de3c1",
+      "bytes": 1333848
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 98,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/98.csv",
+      "path": "Bearing1_4/98.csv",
+      "sha256": "2198ca8acf4edb4dd3bf8a1b5b4e46efe18bfb628cd0666f015d4f5fc51cbf04",
+      "bytes": 1333534
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 99,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/99.csv",
+      "path": "Bearing1_4/99.csv",
+      "sha256": "96049f1a0b26b5566bbfe46f3cd7f9d641d351cce394109e5424e6aae11adafe",
+      "bytes": 1333063
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 100,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/100.csv",
+      "path": "Bearing1_4/100.csv",
+      "sha256": "58aeab3929f34159946e4f1f059f3d5a07196c60088b6ea40feee4864a48fceb",
+      "bytes": 1338387
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 101,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/101.csv",
+      "path": "Bearing1_4/101.csv",
+      "sha256": "b11625c347cfa0d04bfa6b1b820f5f26be5caed41eb1a64168371e10d3195978",
+      "bytes": 1332884
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 102,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/102.csv",
+      "path": "Bearing1_4/102.csv",
+      "sha256": "980cc442f7702337b221e2b60bd57e4708fd2b9ac703e7365a62698dce325d3a",
+      "bytes": 1334948
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 103,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/103.csv",
+      "path": "Bearing1_4/103.csv",
+      "sha256": "12c8811b3d289e8535300f705a294488aac022bac356595734270372ddeb09d1",
+      "bytes": 1335190
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 104,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/104.csv",
+      "path": "Bearing1_4/104.csv",
+      "sha256": "b512abc4c1d2f4ebbea25c009671c1f37e695cfa85497e93b0a1716cc5848b35",
+      "bytes": 1336132
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 105,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/105.csv",
+      "path": "Bearing1_4/105.csv",
+      "sha256": "2ca3850ce61d65fffadc4f1621e2aef7fdc5a91e7d3419893e6ec98a0817dd5f",
+      "bytes": 1335592
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 106,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/106.csv",
+      "path": "Bearing1_4/106.csv",
+      "sha256": "cee41ab914f3f745d97c22cdf117a0c30e15e52df263a43f37a1d122763e31ab",
+      "bytes": 1333778
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 107,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/107.csv",
+      "path": "Bearing1_4/107.csv",
+      "sha256": "0a965d6d0495918466cb52bc838d6d5ec0a3ce22838b4fd0c669f4e5b7cae86d",
+      "bytes": 1333766
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 108,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/108.csv",
+      "path": "Bearing1_4/108.csv",
+      "sha256": "196a62583e96ed1903cd860686599e95cefda31c76fd2e085872e6b5e4784471",
+      "bytes": 1333422
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 109,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/109.csv",
+      "path": "Bearing1_4/109.csv",
+      "sha256": "1f0db5074088bfa8394499459a4606d2948fb01d023ad0bfc1aab7480dc40120",
+      "bytes": 1334421
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 110,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/110.csv",
+      "path": "Bearing1_4/110.csv",
+      "sha256": "ca1e85d4399536a567c500ce2f694cf7b936f884ee1b76c2203506f58353b9c5",
+      "bytes": 1335194
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 111,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/111.csv",
+      "path": "Bearing1_4/111.csv",
+      "sha256": "f361c40445815b5ace666e84832d132ab2bd1d626d551fd202f8e27e7095e5bc",
+      "bytes": 1337147
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 112,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/112.csv",
+      "path": "Bearing1_4/112.csv",
+      "sha256": "c2ed56f434a3406f58c32e8b202df45ac8fcb1aae17de69b5eb70ad32d7c907f",
+      "bytes": 1336455
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 113,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/113.csv",
+      "path": "Bearing1_4/113.csv",
+      "sha256": "d911a0553c2e873c9e0e1b6c5ee4c55b0dcf05e37117a2e34c42406ba2c42dce",
+      "bytes": 1335891
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 114,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/114.csv",
+      "path": "Bearing1_4/114.csv",
+      "sha256": "3e90c9d8aa328099fbb3c7c9d8191c9372a77ac41fe570e018b2761b9e156487",
+      "bytes": 1335756
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 115,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/115.csv",
+      "path": "Bearing1_4/115.csv",
+      "sha256": "57f5ea24c17723faf2b9f94ed6b2d6f5cc82c0400b625b15fa10405de107f0fa",
+      "bytes": 1338060
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 116,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/116.csv",
+      "path": "Bearing1_4/116.csv",
+      "sha256": "93af4d03e831d837670261cd57c49321900afb0a32b61ea577d8183753c211e3",
+      "bytes": 1335417
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 117,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/117.csv",
+      "path": "Bearing1_4/117.csv",
+      "sha256": "1d9b24bdb5b2f239610055d59ad03ddad0346cbb57e47cbcb4e3bb35896fe1cb",
+      "bytes": 1335620
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 118,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/118.csv",
+      "path": "Bearing1_4/118.csv",
+      "sha256": "ea83a9d5755a2d3103f7ec1a302059b5693ffebf04305a537f91664c222a24d2",
+      "bytes": 1334406
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 119,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/119.csv",
+      "path": "Bearing1_4/119.csv",
+      "sha256": "058f4886c9ed43aacf71f5d9bf1f0ab53f3c8be5047cf4055cd8634117c02dc9",
+      "bytes": 1335396
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 120,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/120.csv",
+      "path": "Bearing1_4/120.csv",
+      "sha256": "448f6332f91844a7915268bb34ac582e74eb1a1a8935f613655dcfc5c006a8a8",
+      "bytes": 1333579
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 121,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/121.csv",
+      "path": "Bearing1_4/121.csv",
+      "sha256": "704bbe8961f20debeea9a1d129122a06b3b48ac263fb04723b4bea18ecf7a0a7",
+      "bytes": 1335749
+    },
+    {
+      "bearing_id": "Bearing1_4",
+      "capture_index": 122,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_4/122.csv",
+      "path": "Bearing1_4/122.csv",
+      "sha256": "dcb7a86b68e839739ebf307715eaae4e1f8efc4570a1e35bd2ae4caa5f996738",
+      "bytes": 1311524
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 1,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/1.csv",
+      "path": "Bearing1_5/1.csv",
+      "sha256": "8eab34ec01679e1ad8c6a0d8e58cdc609e1b89c7badb559e336fcb4ac5e65bfe",
+      "bytes": 1323071
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 2,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/2.csv",
+      "path": "Bearing1_5/2.csv",
+      "sha256": "ab1f14797aef3fde917ddafb643c08401bae32a7ec9b790da4c187ed54a21c88",
+      "bytes": 1322737
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 3,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/3.csv",
+      "path": "Bearing1_5/3.csv",
+      "sha256": "dcf20cec45266e3db6a999412118c20721a4f1d0e29f38446ee3a2eb5c10020d",
+      "bytes": 1323568
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 4,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/4.csv",
+      "path": "Bearing1_5/4.csv",
+      "sha256": "d4d34ca3a472c8a5a465d4824ea8a2dcc5602a8efb5fc10f44549bf4e7ec4e9a",
+      "bytes": 1323544
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 5,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/5.csv",
+      "path": "Bearing1_5/5.csv",
+      "sha256": "e6c5ad6d9d20b0472079fc792be028a097577ae28130892d486afac3401054d0",
+      "bytes": 1323373
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 6,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/6.csv",
+      "path": "Bearing1_5/6.csv",
+      "sha256": "90ff556ab86ba20cd4c65cf263c195449e8bf81ed39a5c8011292b9ad998b55c",
+      "bytes": 1322957
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 7,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/7.csv",
+      "path": "Bearing1_5/7.csv",
+      "sha256": "e191ba15848091417fed076adaf8c6e12ffc21e71ba0ee88d2911a7d0300fdcd",
+      "bytes": 1323402
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 8,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/8.csv",
+      "path": "Bearing1_5/8.csv",
+      "sha256": "3c06cf4800391b20a584716eb51ab0e3a3c6bab9753a07e7f562131951028ff1",
+      "bytes": 1323189
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 9,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/9.csv",
+      "path": "Bearing1_5/9.csv",
+      "sha256": "c283d8775996b258f933bb44d24d97e51cd8c0c2966788696cce429fa37d4dd5",
+      "bytes": 1323830
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 10,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/10.csv",
+      "path": "Bearing1_5/10.csv",
+      "sha256": "29ccef2a55ab164b10dc96d03862a1626f810553dd2b057338a15d701d600692",
+      "bytes": 1323926
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 11,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/11.csv",
+      "path": "Bearing1_5/11.csv",
+      "sha256": "dfd589db3a79272d99139706662c32e4bd426aa5a7ffe62c4a5767e891605271",
+      "bytes": 1323112
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 12,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/12.csv",
+      "path": "Bearing1_5/12.csv",
+      "sha256": "80ca02c5d2bef201186cd6357d64959f0a39c5562ca0d19a3d3475b4d5671732",
+      "bytes": 1323222
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 13,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/13.csv",
+      "path": "Bearing1_5/13.csv",
+      "sha256": "d719063db836a1b374087528e221f0f20c29b15e7ace58cb5f7a0f9a83d3a1eb",
+      "bytes": 1323154
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 14,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/14.csv",
+      "path": "Bearing1_5/14.csv",
+      "sha256": "a36a77fc569118b6fc07f9f415a4983a6755ca59fb37c37f02d24697595d115a",
+      "bytes": 1322464
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 15,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/15.csv",
+      "path": "Bearing1_5/15.csv",
+      "sha256": "a0d49439ce1867ae341a1ac996d17f786e923e0b85573c6f470b41885378aa8b",
+      "bytes": 1323743
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 16,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/16.csv",
+      "path": "Bearing1_5/16.csv",
+      "sha256": "4b44f3484079f952821b25e94b238c62faf632286129108fe1b3092d2acc64d7",
+      "bytes": 1323232
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 17,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/17.csv",
+      "path": "Bearing1_5/17.csv",
+      "sha256": "da76f16de8fa618cd66dba890d4966b676e744cebe55646486e409fc765bea6a",
+      "bytes": 1322984
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 18,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/18.csv",
+      "path": "Bearing1_5/18.csv",
+      "sha256": "843223271ee6db3c1a94355911db4df2b6eca02836e6b77fac980bed5a7dc704",
+      "bytes": 1322967
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 19,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/19.csv",
+      "path": "Bearing1_5/19.csv",
+      "sha256": "11d31c197ea0e021d1a4abaf90cc9d7731866ca3ccef7189cdead042c1b4feb7",
+      "bytes": 1323114
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 20,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/20.csv",
+      "path": "Bearing1_5/20.csv",
+      "sha256": "8a255b5819b4387c667151a3b8f272ae36a09be712035fba9cdfe88b7d9347eb",
+      "bytes": 1322662
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 21,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/21.csv",
+      "path": "Bearing1_5/21.csv",
+      "sha256": "c4c8c9835f92bd09aee8211d3b860c5edd20346a8f1b7b90c0e2a9e8c813bb0a",
+      "bytes": 1321809
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 22,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/22.csv",
+      "path": "Bearing1_5/22.csv",
+      "sha256": "03cdf110f7d45e9da4671b2d64444ac68dae735071f655286150958f8577e922",
+      "bytes": 1323333
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 23,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/23.csv",
+      "path": "Bearing1_5/23.csv",
+      "sha256": "1db70c722dbfc17cc46be6faa77874a04f5bfee17339590188010af7ba246f20",
+      "bytes": 1323761
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 24,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/24.csv",
+      "path": "Bearing1_5/24.csv",
+      "sha256": "e7c4301895e9f3926e3308a7e5c83f17cc7bfc0888014c4934a26e6fcd8059df",
+      "bytes": 1323522
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 25,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/25.csv",
+      "path": "Bearing1_5/25.csv",
+      "sha256": "5862a8f3f95f011416cbaf89a7a1b41b0c331a37a6e287ccf5f6e332353f746e",
+      "bytes": 1322046
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 26,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/26.csv",
+      "path": "Bearing1_5/26.csv",
+      "sha256": "cbde4280df11e0dd0593cb5df2f18a1ab2577e5ebaf3b7f185c1dbc4be0e86cf",
+      "bytes": 1323057
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 27,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/27.csv",
+      "path": "Bearing1_5/27.csv",
+      "sha256": "b0188bc38e417e848d7f4999b7112737f33aa6127d5ef0d09ef573762d9b08d8",
+      "bytes": 1321980
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 28,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/28.csv",
+      "path": "Bearing1_5/28.csv",
+      "sha256": "f899447f4e0787d5864815e478000bf196b937aa1fab2ea153b82915fef74ba0",
+      "bytes": 1321494
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 29,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/29.csv",
+      "path": "Bearing1_5/29.csv",
+      "sha256": "2485e07e9603694387ad6a4582b1d7266ad5d4a6ff0cf4e235f330227422a4e0",
+      "bytes": 1321281
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 30,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/30.csv",
+      "path": "Bearing1_5/30.csv",
+      "sha256": "0cece38420801cf5bf99a9127a2f71b3c17a92692146d3ed741da9291c78040d",
+      "bytes": 1321442
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 31,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/31.csv",
+      "path": "Bearing1_5/31.csv",
+      "sha256": "3700e90379f932d416821187f1e7fac632604f521e7a05b34a70766075a8e0a5",
+      "bytes": 1321742
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 32,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/32.csv",
+      "path": "Bearing1_5/32.csv",
+      "sha256": "8520068cff4ff6689c6b1849f381e2c31acc81c8418e28af687fa782a0ba6437",
+      "bytes": 1320922
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 33,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/33.csv",
+      "path": "Bearing1_5/33.csv",
+      "sha256": "2df0dfbcb73a97cd09788754ca01096e18973a4034e18834a815ba621e14b759",
+      "bytes": 1320204
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 34,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/34.csv",
+      "path": "Bearing1_5/34.csv",
+      "sha256": "c21e6468798c31aaec8e2d97dcae703ee12d502cf637d57a5bd437ea736d6625",
+      "bytes": 1319814
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 35,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/35.csv",
+      "path": "Bearing1_5/35.csv",
+      "sha256": "29dbcc08d46eb2b4b3d2b26a8ac6daff410b3f88ec33313e00040c7c4bca538d",
+      "bytes": 1314148
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 36,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/36.csv",
+      "path": "Bearing1_5/36.csv",
+      "sha256": "e99d94f095e426aca3ccb3c1ad58992d41360ab6dc9866646a6171efe0859eeb",
+      "bytes": 1304710
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 37,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/37.csv",
+      "path": "Bearing1_5/37.csv",
+      "sha256": "5af230f2d657a45da22eaeb7f9f094dd10f5f27d6c4ed4c7ec7eca3ff2f7c4f7",
+      "bytes": 1299091
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 38,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/38.csv",
+      "path": "Bearing1_5/38.csv",
+      "sha256": "d53aaecf40a01d8b745a616cfed368777e5be0f78b72dcc47cbc8a958c2c3679",
+      "bytes": 1304956
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 39,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/39.csv",
+      "path": "Bearing1_5/39.csv",
+      "sha256": "03dab552726712a9ec2112bda50e9b5695043dce47143ea528a6c272e2ab796f",
+      "bytes": 1305922
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 40,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/40.csv",
+      "path": "Bearing1_5/40.csv",
+      "sha256": "ac21ac05afcae29b5b1eb5552e36717b4fe7505e79c0bb78c4fcf1ba97ecd09a",
+      "bytes": 1285830
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 41,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/41.csv",
+      "path": "Bearing1_5/41.csv",
+      "sha256": "70bb136e482674e27eb53e7bd662509139439b2552117521b927e31aa7cc2330",
+      "bytes": 1276719
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 42,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/42.csv",
+      "path": "Bearing1_5/42.csv",
+      "sha256": "c4c2a4aed908b69aef8b35973bfb381f8f2f0a5ff532b5aa7004e6b441177094",
+      "bytes": 1284909
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 43,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/43.csv",
+      "path": "Bearing1_5/43.csv",
+      "sha256": "4403cae603691b40b3131124dcf980880ec207289908157772380641f1c8184c",
+      "bytes": 1279237
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 44,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/44.csv",
+      "path": "Bearing1_5/44.csv",
+      "sha256": "f64621ce7a1070ab5242adbb6f47ae77b8d6110091e8ac007b0e661f540014f8",
+      "bytes": 1281523
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 45,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/45.csv",
+      "path": "Bearing1_5/45.csv",
+      "sha256": "ad7e7279eebbcbe38073df434066f63d663ece4f447e439a62e2a72f8d43eddd",
+      "bytes": 1277652
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 46,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/46.csv",
+      "path": "Bearing1_5/46.csv",
+      "sha256": "7c07dd9fac1085ea192eabc4e61af9a2aefda31679ea1b09f4c55df6e25466db",
+      "bytes": 1278804
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 47,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/47.csv",
+      "path": "Bearing1_5/47.csv",
+      "sha256": "3b05cba22e67ba4a6ea8bedc2e3d237d28af3282e19185dd4db91bf6d5fba8db",
+      "bytes": 1277442
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 48,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/48.csv",
+      "path": "Bearing1_5/48.csv",
+      "sha256": "2882c7ff16c251144eacab9d3ffb1c5932094e9a653802b63d56036165e58a1b",
+      "bytes": 1275075
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 49,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/49.csv",
+      "path": "Bearing1_5/49.csv",
+      "sha256": "016fc5ae8f19033a8a5e3dfad48d8ed6e2e4ad95b79fa0140ffe195bf8293706",
+      "bytes": 1274206
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 50,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/50.csv",
+      "path": "Bearing1_5/50.csv",
+      "sha256": "b0a4bec7e7f2d2a9072bb0f7d5851dbf44bb109c8c3b1a3a04d74766cdeb27c6",
+      "bytes": 1273373
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 51,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/51.csv",
+      "path": "Bearing1_5/51.csv",
+      "sha256": "8a528ab593e99c3d1d5a4364bccc707323412c214a3c2d4baabcdf4a814dfe6c",
+      "bytes": 1273213
+    },
+    {
+      "bearing_id": "Bearing1_5",
+      "capture_index": 52,
+      "archive_path": "XJTU-SY_Bearing_Datasets/35Hz12kN/Bearing1_5/52.csv",
+      "path": "Bearing1_5/52.csv",
+      "sha256": "a1416c5786fe22b819b2ff280f8d0e02830199798d869c0b8020e9c588acd7f1",
+      "bytes": 1273668
+    }
+  ],
+  "elapsed_seconds": 107.14099999994505
+}

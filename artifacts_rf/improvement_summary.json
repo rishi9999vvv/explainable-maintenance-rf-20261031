@@ -1,0 +1,91 @@
+{
+  "before": {
+    "average_precision": 0.9909090909090909,
+    "precision": 0.5882352941176471,
+    "recall": 1.0,
+    "f2": 0.8771929824561403,
+    "threshold": 0.007709719470122317,
+    "n_windows": 36,
+    "positive_windows": 10,
+    "tp": 10,
+    "fp": 7,
+    "fn": 0,
+    "tn": 19,
+    "persistent_warning_recall": 1.0,
+    "warning_episodes": [
+      {
+        "bearing_id": "Bearing1_5",
+        "capture_index": 37,
+        "elapsed_seconds": 2160,
+        "endpoint_index": 52,
+        "lead_captures": 15,
+        "outside_target_horizon": true
+      }
+    ],
+    "episodes_outside_target_horizon": 1,
+    "outside_horizon_episodes_per_evaluated_hour": 1.6666666666666667,
+    "evaluated_capture_hours": 0.6,
+    "endpoints": [
+      {
+        "bearing_id": "Bearing1_5",
+        "first_warning_lead_captures": 15,
+        "first_in_horizon_warning_lead_captures": 10,
+        "missed_endpoint": false
+      }
+    ],
+    "missed_endpoints": 0
+  },
+  "after": {
+    "average_precision": 1.0,
+    "precision": 0.7692307692307693,
+    "recall": 1.0,
+    "f2": 0.9433962264150944,
+    "threshold": 0.007659604729,
+    "n_windows": 36,
+    "positive_windows": 10,
+    "tp": 10,
+    "fp": 3,
+    "fn": 0,
+    "tn": 23,
+    "persistent_warning_recall": 1.0,
+    "warning_episodes": [
+      {
+        "bearing_id": "Bearing1_5",
+        "capture_index": 41,
+        "elapsed_seconds": 2400,
+        "endpoint_index": 52,
+        "lead_captures": 11,
+        "outside_target_horizon": true
+      }
+    ],
+    "episodes_outside_target_horizon": 1,
+    "outside_horizon_episodes_per_evaluated_hour": 1.6666666666666667,
+    "evaluated_capture_hours": 0.6,
+    "endpoints": [
+      {
+        "bearing_id": "Bearing1_5",
+        "first_warning_lead_captures": 11,
+        "first_in_horizon_warning_lead_captures": 10,
+        "missed_endpoint": false
+      }
+    ],
+    "missed_endpoints": 0,
+    "accuracy": 0.9166666666666666,
+    "f1": 0.8695652173913043
+  },
+  "selection_basis": "Training/validation only; activation gate based on validation accuracy and recall.",
+  "selected_candidate": {
+    "candidate_id": "no_phase_2",
+    "vote_history_captures": 8,
+    "feature_count": 92,
+    "accuracy": 0.9905660377358491,
+    "f1": 0.9523809523809523,
+    "precision": 0.9090909090909091,
+    "threshold": 0.007659604729,
+    "recall": 1.0,
+    "validation_ap": 0.9572979797979797,
+    "grouped_pooled_ap": 0.2517826358103113
+  },
+  "grouped_search_result": "artifacts_rf_candidate/result.json",
+  "caveat": "Three development experiments used the same validation cohort; Bearing1_5 already inspected. Not independent validation. Grouped CV exposed weak between-bearing transfer."
+}

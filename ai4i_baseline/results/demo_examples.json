@@ -1,0 +1,110 @@
+{
+  "true_positive": {
+    "udi": 4852,
+    "inputs": {
+      "Type": "L",
+      "Air temperature [K]": 303.7,
+      "Process temperature [K]": 312.1,
+      "Rotational speed [rpm]": 1363,
+      "Torque [Nm]": 51.8,
+      "Tool wear [min]": 90
+    },
+    "actual": 1,
+    "score": 0.408,
+    "base": 0.4999999999999999,
+    "shap": {
+      "Air temperature [K]": 0.003877613309122736,
+      "Process temperature [K]": -0.18728765824307592,
+      "Rotational speed [rpm]": 0.15869441868198314,
+      "Torque [Nm]": -0.010256595491699303,
+      "Tool wear [min]": -0.0343304062776863,
+      "Temperature difference [K]": 0.1352556696316566,
+      "Mechanical power [W]": -0.066836174069121,
+      "Wear x torque [min Nm]": -0.08158361394241034,
+      "Type_H": -0.0007283497068121379,
+      "Type_L": -0.005591162269503369,
+      "Type_M": -0.0032137416224541854
+    }
+  },
+  "true_negative": {
+    "udi": 2998,
+    "inputs": {
+      "Type": "L",
+      "Air temperature [K]": 300.5,
+      "Process temperature [K]": 309.8,
+      "Rotational speed [rpm]": 1345,
+      "Torque [Nm]": 62.7,
+      "Tool wear [min]": 153
+    },
+    "actual": 0,
+    "score": 0.068,
+    "base": 0.4999999999999999,
+    "shap": {
+      "Air temperature [K]": -0.07736460002394849,
+      "Process temperature [K]": -0.02693630998061424,
+      "Rotational speed [rpm]": 0.042833307802994595,
+      "Torque [Nm]": 0.057246224667961296,
+      "Tool wear [min]": -0.07928525906963635,
+      "Temperature difference [K]": -0.12305113210385833,
+      "Mechanical power [W]": -0.04402834086143956,
+      "Wear x torque [min Nm]": -0.17342689976209671,
+      "Type_H": -0.0013152841231959336,
+      "Type_L": -0.005460188638613424,
+      "Type_M": -0.001211517907552368
+    }
+  },
+  "false_negative": {
+    "udi": 9175,
+    "inputs": {
+      "Type": "L",
+      "Air temperature [K]": 297.8,
+      "Process temperature [K]": 308.9,
+      "Rotational speed [rpm]": 1871,
+      "Torque [Nm]": 25.6,
+      "Tool wear [min]": 200
+    },
+    "actual": 1,
+    "score": 0.0,
+    "base": 0.4999999999999999,
+    "shap": {
+      "Air temperature [K]": -0.03912479530638132,
+      "Process temperature [K]": -0.02430229478841702,
+      "Rotational speed [rpm]": -0.08977327097056925,
+      "Torque [Nm]": -0.08661701818310324,
+      "Tool wear [min]": -0.02998585198462808,
+      "Temperature difference [K]": -0.04631530822169439,
+      "Mechanical power [W]": -0.09836176044502477,
+      "Wear x torque [min Nm]": -0.081621313127914,
+      "Type_H": -0.0012412569560529933,
+      "Type_L": -0.000798638159245184,
+      "Type_M": -0.0018584918569686825
+    }
+  },
+  "false_positive": {
+    "udi": 4232,
+    "inputs": {
+      "Type": "L",
+      "Air temperature [K]": 302.2,
+      "Process temperature [K]": 310.8,
+      "Rotational speed [rpm]": 1340,
+      "Torque [Nm]": 47.8,
+      "Tool wear [min]": 54
+    },
+    "actual": 0,
+    "score": 0.56,
+    "base": 0.4999999999999999,
+    "shap": {
+      "Air temperature [K]": 0.05277526887129824,
+      "Process temperature [K]": -0.00902690248942816,
+      "Rotational speed [rpm]": 0.19840977155396017,
+      "Torque [Nm]": -0.0560730282415482,
+      "Tool wear [min]": -0.025414148005936877,
+      "Temperature difference [K]": 0.04906079066614963,
+      "Mechanical power [W]": -0.08754728137994192,
+      "Wear x torque [min Nm]": -0.057202799725810445,
+      "Type_H": -0.00194005307712551,
+      "Type_L": -0.0012579157421348478,
+      "Type_M": -0.0017837024294822252
+    }
+  }
+}

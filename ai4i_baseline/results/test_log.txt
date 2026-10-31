@@ -1,0 +1,11 @@
+test_invalid_input (test_project.ProjectTests.test_invalid_input) ... ok
+test_page (test_project.ProjectTests.test_page) ... ok
+test_pipeline_ignores_outcomes (test_project.ProjectTests.test_pipeline_ignores_outcomes) ... ok
+test_reject_leakage_fields (test_project.ProjectTests.test_reject_leakage_fields) ... ok
+test_splits_and_metrics (test_project.ProjectTests.test_splits_and_metrics) ... ok
+test_valid_prediction_and_shap (test_project.ProjectTests.test_valid_prediction_and_shap) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 4.363s
+
+OK
